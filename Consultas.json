@@ -1,0 +1,1502 @@
+[
+    {
+        "idConsulta": "1",
+        " Consulta": " Cuales son las condiciones para presentarse a un concurso?",
+        " idRespuestaEsperada(idArticulo) ": " 9"
+    },
+    {
+        "idConsulta": "2",
+        " Consulta": " Quien debe regir la convocatoria para la designacion por concurso de profesores ordinarios?",
+        " idRespuestaEsperada(idArticulo) ": " 3"
+    },
+    {
+        "idConsulta": "3",
+        " Consulta": " Como se publicita un llamado a concurso?",
+        " idRespuestaEsperada(idArticulo) ": " 6"
+    },
+    {
+        "idConsulta": "4",
+        " Consulta": " Que contenido tienen los anuncios?",
+        " idRespuestaEsperada(idArticulo) ": " 8"
+    },
+    {
+        "idConsulta": "5",
+        " Consulta": " Cuales son los requisitos para los aspirantes a un concurso?",
+        " idRespuestaEsperada(idArticulo) ": " 9"
+    },
+    {
+        "idConsulta": "6",
+        " Consulta": " Cuales son los plazos de inscripcion?",
+        " idRespuestaEsperada(idArticulo) ": " 10"
+    },
+    {
+        "idConsulta": "7",
+        " Consulta": " En donde se realizan las inscripciones?",
+        " idRespuestaEsperada(idArticulo) ": " 11"
+    },
+    {
+        "idConsulta": "8",
+        " Consulta": " Que documentacion deben presentar los aspirantes a un concurso?",
+        " idRespuestaEsperada(idArticulo) ": " 13"
+    },
+    {
+        "idConsulta": "9",
+        " Consulta": " Cuales son los requisitos ante inscripciones multiples? ",
+        " idRespuestaEsperada(idArticulo) ": " 18"
+    },
+    {
+        "idConsulta": "10",
+        " Consulta": " Que se hace en el cierre de inscripcion?",
+        " idRespuestaEsperada(idArticulo) ": " 19"
+    },
+    {
+        "idConsulta": "11",
+        " Consulta": " Que se realiza en la exhibicion de nomina de aspirantes",
+        " idRespuestaEsperada(idArticulo) ": " 20"
+    },
+    {
+        "idConsulta": "12",
+        " Consulta": " Quienes pueden ejercer el derecho de impugnar la participacion en el concurso de los aspirantes?",
+        " idRespuestaEsperada(idArticulo) ": " 21"
+    },
+    {
+        "idConsulta": "13",
+        " Consulta": " Que consecuencias tiene la interposicion de la impugnacion?",
+        " idRespuestaEsperada(idArticulo) ": " 22"
+    },
+    {
+        "idConsulta": "14",
+        " Consulta": " Que tiene que pasar para que el consejo directivo excluya a un aspirante?",
+        " idRespuestaEsperada(idArticulo) ": " 23"
+    },
+    {
+        "idConsulta": "15",
+        " Consulta": " Que organismo designa a los integrantes del jurado?",
+        " idRespuestaEsperada(idArticulo) ": " 25"
+    },
+    {
+        "idConsulta": "16",
+        " Consulta": " Que condiciones deben reunir los integrantes del jurado?",
+        " idRespuestaEsperada(idArticulo) ": " 27"
+    },
+    {
+        "idConsulta": "17",
+        " Consulta": " Como se realiza la recusasion de los miembros del jurado?",
+        " idRespuestaEsperada(idArticulo) ": " 29"
+    },
+    {
+        "idConsulta": "18",
+        " Consulta": " Cuales son los causales de recusasion para algun aspirante?",
+        " idRespuestaEsperada(idArticulo) ": " 28"
+    },
+    {
+        "idConsulta": "19",
+        " Consulta": " Que organismo resuelve las recusasiones y excusasiones del jurado?",
+        " idRespuestaEsperada(idArticulo) ": " 33"
+    },
+    {
+        "idConsulta": "20",
+        " Consulta": " Quien reemplaza a un jurado recusado o excusado?",
+        " idRespuestaEsperada(idArticulo) ": " 34"
+    },
+    {
+        "idConsulta": "21",
+        " Consulta": " Que presencia hace falta para que el jurado funciones validamente?",
+        " idRespuestaEsperada(idArticulo) ": " 39"
+    },
+    {
+        "idConsulta": "22",
+        " Consulta": " Que antelacion tiene que haber para realizar un sorteo del tema y orden de exposicion?",
+        " idRespuestaEsperada(idArticulo) ": " 40"
+    },
+    {
+        "idConsulta": "23",
+        " Consulta": " Cuales son las pautas para la evaluacion de un aspirante?",
+        " idRespuestaEsperada(idArticulo) ": " 44"
+    },
+    {
+        "idConsulta": "24",
+        " Consulta": " Cuanto tiempo debe pasar para notificar las conclusiones del dictamen del jurado?",
+        " idRespuestaEsperada(idArticulo) ": " 49"
+    },
+    {
+        "idConsulta": "25",
+        " Consulta": " A cargo de que organismo esta la designacion de profesores por concurso?",
+        " idRespuestaEsperada(idArticulo) ": " 54"
+    },
+    {
+        "idConsulta": "26",
+        " Consulta": " Que sucede cuando existen reales dificultades para obtener miembros del jurado?",
+        " idRespuestaEsperada(idArticulo) ": " 62"
+    },
+    {
+        "idConsulta": "27",
+        " Consulta": " Que se realiza ante la aparicion de una nueva vacante o puesto curricular?",
+        " idRespuestaEsperada(idArticulo) ": " 70"
+    },
+    {
+        "idConsulta": "28",
+        " Consulta": " Que caracter tienen las solicitudes de inscripcion a un concurso docente?",
+        " idRespuestaEsperada(idArticulo) ": " 73"
+    },
+    {
+        "idConsulta": "29",
+        " Consulta": " Quienes pueden recusar a los miembros del jurado?",
+        " idRespuestaEsperada(idArticulo) ": " 80"
+    },
+    {
+        "idConsulta": "30",
+        " Consulta": " Quien resuelve las excusasiones y recusaciones ",
+        " idRespuestaEsperada(idArticulo) ": " 84"
+    },
+    {
+        "idConsulta": "31",
+        " Consulta": " Que actividades no puede realizar un alumno en categoria pasivo?",
+        " idRespuestaEsperada(idArticulo) ": " 102"
+    },
+    {
+        "idConsulta": "32",
+        " Consulta": " Hasta cuando se mantiene la regularidad de la asignatura?",
+        " idRespuestaEsperada(idArticulo) ": " 105"
+    },
+    {
+        "idConsulta": "33",
+        " Consulta": " Que implica la perdida de regularidad?",
+        " idRespuestaEsperada(idArticulo) ": " 107"
+    },
+    {
+        "idConsulta": "34",
+        " Consulta": " Que es un alumno vocacional?",
+        " idRespuestaEsperada(idArticulo) ": " 109"
+    },
+    {
+        "idConsulta": "35",
+        " Consulta": " Que derechos tiene un alumno vocacional?",
+        " idRespuestaEsperada(idArticulo) ": " 110"
+    },
+    {
+        "idConsulta": "36",
+        " Consulta": " Como puede aprobar una asignatura un alumno regular?",
+        " idRespuestaEsperada(idArticulo) ": " 113"
+    },
+    {
+        "idConsulta": "37",
+        " Consulta": " Como puede aprobar una materia un alumno libre?",
+        " idRespuestaEsperada(idArticulo) ": " 114"
+    },
+    {
+        "idConsulta": "38",
+        " Consulta": " Como se expresa la calificacion final de una asignatura?",
+        " idRespuestaEsperada(idArticulo) ": " 129"
+    },
+    {
+        "idConsulta": "39",
+        " Consulta": " Quienes pueden solicitar equivalencias de algunas asignaturas?",
+        " idRespuestaEsperada(idArticulo) ": " 133"
+    },
+    {
+        "idConsulta": "40",
+        " Consulta": " Que tipo de ambitos son los consejos de carrera?",
+        " idRespuestaEsperada(idArticulo) ": " 201"
+    },
+    {
+        "idConsulta": "41",
+        " Consulta": " Que datos contienen los anuncios?",
+        " idRespuestaEsperada(idArticulo) ": " 8"
+    },
+    {
+        "idConsulta": "42",
+        " Consulta": " Quien esta a cargo de la difusion del llamado a concurso?",
+        " idRespuestaEsperada(idArticulo) ": " 6"
+    },
+    {
+        "idConsulta": "43",
+        " Consulta": " Cual es el periodo de inscripcion a la convocatoria?",
+        " idRespuestaEsperada(idArticulo) ": " 10"
+    },
+    {
+        "idConsulta": "44",
+        " Consulta": " Como realizo mi solicitud de inscripcion?",
+        " idRespuestaEsperada(idArticulo) ": " 12"
+    },
+    {
+        "idConsulta": "45",
+        " Consulta": " Cuando presento el pleanamiento de la catedra?",
+        " idRespuestaEsperada(idArticulo) ": " 14"
+    },
+    {
+        "idConsulta": "46",
+        " Consulta": " Puedo presentarme a mas de un concurso?",
+        " idRespuestaEsperada(idArticulo) ": " 18"
+    },
+    {
+        "idConsulta": "47",
+        " Consulta": " Puede un apoderado intervenir en mis tramites?",
+        " idRespuestaEsperada(idArticulo) ": " 17"
+    },
+    {
+        "idConsulta": "48",
+        " Consulta": " Como se designa al jurado?",
+        " idRespuestaEsperada(idArticulo) ": " 25"
+    },
+    {
+        "idConsulta": "49",
+        " Consulta": " Como se compone el jurado?",
+        " idRespuestaEsperada(idArticulo) ": " 26"
+    },
+    {
+        "idConsulta": "50",
+        " Consulta": " Cuales son las causales de recusacion de un miembro del jurado?",
+        " idRespuestaEsperada(idArticulo) ": " 30"
+    },
+    {
+        "idConsulta": "51",
+        " Consulta": " Como evalua el jurado al aspirante?",
+        " idRespuestaEsperada(idArticulo) ": " 44"
+    },
+    {
+        "idConsulta": "52",
+        " Consulta": " Quienes participan en la deliberacion del jurado?",
+        " idRespuestaEsperada(idArticulo) ": " 46"
+    },
+    {
+        "idConsulta": "53",
+        " Consulta": " Puede haber mas de un aspirante con el mismo merito?",
+        " idRespuestaEsperada(idArticulo) ": " 48"
+    },
+    {
+        "idConsulta": "54",
+        " Consulta": " Que restricciones tiene un alumno pasivo?",
+        " idRespuestaEsperada(idArticulo) ": " 102"
+    },
+    {
+        "idConsulta": "55",
+        " Consulta": " Que podra realizar un alumno activo?",
+        " idRespuestaEsperada(idArticulo) ": " 103"
+    },
+    {
+        "idConsulta": "56",
+        " Consulta": " Cuanto tiempo se mantiene la regularidad en una asignatura?",
+        " idRespuestaEsperada(idArticulo) ": " 105"
+    },
+    {
+        "idConsulta": "57",
+        " Consulta": " De que consta la perdida de la regularidad?",
+        " idRespuestaEsperada(idArticulo) ": " 107"
+    },
+    {
+        "idConsulta": "58",
+        " Consulta": " Que esta habilitado a realizar un alumno libre?",
+        " idRespuestaEsperada(idArticulo) ": " 114"
+    },
+    {
+        "idConsulta": "59",
+        " Consulta": " En que momento se da a conocer la condiicon de cada alumno?",
+        " idRespuestaEsperada(idArticulo) ": " 115"
+    },
+    {
+        "idConsulta": "60",
+        " Consulta": " Cuantos turnos de examenes finales se dictan por ano lectivo?",
+        " idRespuestaEsperada(idArticulo) ": " 117"
+    },
+    {
+        "idConsulta": "61",
+        " Consulta": " Que contiene un acta de evaluacion?",
+        " idRespuestaEsperada(idArticulo) ": " 121"
+    },
+    {
+        "idConsulta": "62",
+        " Consulta": " Como se lleva control de asignaturas correlativas?",
+        " idRespuestaEsperada(idArticulo) ": " 131"
+    },
+    {
+        "idConsulta": "63",
+        " Consulta": " Con que categorias de docentes universitarios cuenta la Facultad?",
+        " idRespuestaEsperada(idArticulo) ": " 148"
+    },
+    {
+        "idConsulta": "64",
+        " Consulta": " Cuales son las normas para el dictado de clases?",
+        " idRespuestaEsperada(idArticulo) ": " 151"
+    },
+    {
+        "idConsulta": "65",
+        " Consulta": " Como se determina la condicion de los alumnos?",
+        " idRespuestaEsperada(idArticulo) ": " 163"
+    },
+    {
+        "idConsulta": "66",
+        " Consulta": " Quienes estan habilitados a ingresar a la ensenanza de grado?",
+        " idRespuestaEsperada(idArticulo) ": " 228"
+    },
+    {
+        "idConsulta": "67",
+        " Consulta": " Cuales son los derechos del estudiante?",
+        " idRespuestaEsperada(idArticulo) ": " 234"
+    },
+    {
+        "idConsulta": "68",
+        " Consulta": " Que requisitos se especifican para ser docente?",
+        " idRespuestaEsperada(idArticulo) ": " 257"
+    },
+    {
+        "idConsulta": "69",
+        " Consulta": " Cuales son las condiciones para acceder a la formacion de posgrado?",
+        " idRespuestaEsperada(idArticulo) ": " 261"
+    },
+    {
+        "idConsulta": "70",
+        " Consulta": " De que se encarga el estado provincial?",
+        " idRespuestaEsperada(idArticulo) ": " 315"
+    },
+    {
+        "idConsulta": "71",
+        " Consulta": " Cuales son los objetivos de la educacion superior?",
+        " idRespuestaEsperada(idArticulo) ": " 362"
+    },
+    {
+        "idConsulta": "72",
+        " Consulta": " Cuales son las modalidades del sistema educativo?",
+        " idRespuestaEsperada(idArticulo) ": " 371"
+    },
+    {
+        "idConsulta": "73",
+        " Consulta": " Cuales son los organos del gobierno universitario?",
+        " idRespuestaEsperada(idArticulo) ": " 381"
+    },
+    {
+        "idConsulta": "74",
+        " Consulta": " Quienes integran el consejo superior?",
+        " idRespuestaEsperada(idArticulo) ": " 386"
+    },
+    {
+        "idConsulta": "75",
+        " Consulta": " Quienes integran el consejo directivo?",
+        " idRespuestaEsperada(idArticulo) ": " 396"
+    },
+    {
+        "idConsulta": "76",
+        " Consulta": " Cuales son las funciones del consejo directivo?",
+        " idRespuestaEsperada(idArticulo) ": " 399"
+    },
+    {
+        "idConsulta": "77",
+        " Consulta": " Cuales son los requsitos para ser decano de la Facultad?",
+        " idRespuestaEsperada(idArticulo) ": " 400"
+    },
+    {
+        "idConsulta": "78",
+        " Consulta": " Cuales son las funciones del decano?",
+        " idRespuestaEsperada(idArticulo) ": " 401"
+    },
+    {
+        "idConsulta": "79",
+        " Consulta": " Que categorias de estudaintes reconoce la facultad?",
+        " idRespuestaEsperada(idArticulo) ": " 451"
+    },
+    {
+        "idConsulta": "80",
+        " Consulta": " Cuales son las formas de realizar la docencia?",
+        " idRespuestaEsperada(idArticulo) ": " 463"
+    },
+    {
+        "idConsulta": "81",
+        " Consulta": " De que consta la docencia regular?",
+        " idRespuestaEsperada(idArticulo) ": " 464"
+    },
+    {
+        "idConsulta": "82",
+        " Consulta": " De que consta la docencia libre?",
+        " idRespuestaEsperada(idArticulo) ": " 465"
+    },
+    {
+        "idConsulta": "83",
+        " Consulta": " De que manera se fomenta el desarrollo de la investigacion?",
+        " idRespuestaEsperada(idArticulo) ": " 467"
+    },
+    {
+        "idConsulta": "84",
+        " Consulta": " Cual es el fondo universitario?",
+        " idRespuestaEsperada(idArticulo) ": " 474"
+    },
+    {
+        "idConsulta": "85",
+        " Consulta": " Que cargos son incompatibles?",
+        " idRespuestaEsperada(idArticulo) ": " 482"
+    },
+    {
+        "idConsulta": "86",
+        " Consulta": " Cuales son las medidas ante la ausencia de un docente?",
+        " idRespuestaEsperada(idArticulo) ": " 492"
+    },
+    {
+        "idConsulta": "87",
+        " Consulta": " Cual es el objetivo de la tesis de cada alumno?",
+        " idRespuestaEsperada(idArticulo) ": " 10035"
+    },
+    {
+        "idConsulta": "88",
+        " Consulta": " Que es la tesis del estudiante?",
+        " idRespuestaEsperada(idArticulo) ": " 10040"
+    },
+    {
+        "idConsulta": "89",
+        " Consulta": " Cual es el plazo para la presentacion de la tesis?",
+        " idRespuestaEsperada(idArticulo) ": " 10084"
+    },
+    {
+        "idConsulta": "90",
+        " Consulta": " Que obligaciones tienen los padres o tutores de los alumnos ?",
+        " idRespuestaEsperada(idArticulo) ": " 10174"
+    },
+    {
+        "idConsulta": "91",
+        " Consulta": " Que derechos tienen los padres o tutores de los alumnos ?",
+        " idRespuestaEsperada(idArticulo) ": " 10173"
+    },
+    {
+        "idConsulta": "92",
+        " Consulta": " Que deberes tienen los trabajadores de la educacion?",
+        " idRespuestaEsperada(idArticulo) ": " 10176"
+    },
+    {
+        "idConsulta": "93",
+        " Consulta": " Cuales son los objetivos de la educacion  especial?",
+        " idRespuestaEsperada(idArticulo) ": " 10157"
+    },
+    {
+        "idConsulta": "94",
+        " Consulta": " Cuales son las funciones de las universidades?",
+        " idRespuestaEsperada(idArticulo) ": " 10150"
+    },
+    {
+        "idConsulta": "95",
+        " Consulta": " Cuales son los objetivos de la educacion de adultos?",
+        " idRespuestaEsperada(idArticulo) ": " 10159"
+    },
+    {
+        "idConsulta": "96",
+        " Consulta": " Que tiene la formacion docente como objetivos?",
+        " idRespuestaEsperada(idArticulo) ": " 10147"
+    },
+    {
+        "idConsulta": "97",
+        " Consulta": " Cuales son los derechos de los educandos?",
+        " idRespuestaEsperada(idArticulo) ": " 10172"
+    },
+    {
+        "idConsulta": "98",
+        " Consulta": " Que se verifica en la evaluacion  de la calidad en el sistema educativo?",
+        " idRespuestaEsperada(idArticulo) ": " 10178"
+    },
+    {
+        "idConsulta": "99",
+        " Consulta": " Que tiene como objetivos la educacion de posgrado?",
+        " idRespuestaEsperada(idArticulo) ": " 10152"
+    },
+    {
+        "idConsulta": "100",
+        " Consulta": " Cuales son los deberes de los trabajadores de la educacion?",
+        " idRespuestaEsperada(idArticulo) ": " 10176"
+    },
+    {
+        "idConsulta": "101",
+        " Consulta": " Que verificara la evaluacion de la calidad en el sistema educativo",
+        " idRespuestaEsperada(idArticulo) ": " 10178"
+    },
+    {
+        "idConsulta": "102",
+        " Consulta": " Que debera hacer el El Poder Ejecutivo nacional, a traves del ministerio especifico?",
+        " idRespuestaEsperada(idArticulo) ": " 10182"
+    },
+    {
+        "idConsulta": "103",
+        " Consulta": " Cual es la mision del Consejo Federal de Cultura y Educacion?",
+        " idRespuestaEsperada(idArticulo) ": " 10184"
+    },
+    {
+        "idConsulta": "104",
+        " Consulta": " Cuales son las funciones del Consejo Federal de Cultura y Educacion?",
+        " idRespuestaEsperada(idArticulo) ": " 10185"
+    },
+    {
+        "idConsulta": "105",
+        " Consulta": " Cuales son los organos que se compone el Consejo Federal de Cultura y Educacion?",
+        " idRespuestaEsperada(idArticulo) ": " 10186"
+    },
+    {
+        "idConsulta": "106",
+        " Consulta": " De que dos Consejos Consultivos recibira apoyo el Consejo Federal de Cultura y Educacion?",
+        " idRespuestaEsperada(idArticulo) ": " 10187"
+    },
+    {
+        "idConsulta": "107",
+        " Consulta": " Que atribuciones tienen las autoridades componententes de las provincias y de la municipalidad de la Ciudad de Buenos Aires?",
+        " idRespuestaEsperada(idArticulo) ": " 10188"
+    },
+    {
+        "idConsulta": "108",
+        " Consulta": " Con que finalidad financia el Poder Ejecutivo nacional los programas especiales de desarrollo educativo? ",
+        " idRespuestaEsperada(idArticulo) ": " 10193"
+    },
+    {
+        "idConsulta": "109",
+        " Consulta": " Que acordaron El Ministerio de Cultura y Educacion y las autoridades educativas de las provincias y de la Municipalidad de la Ciudad de Buenos Aires con el seno del Consejo Federal de Cultura y Educacion?",
+        " idRespuestaEsperada(idArticulo) ": " 10195"
+    },
+    {
+        "idConsulta": "110",
+        " Consulta": " El presupuesto de la administracion publica nacional 1993 sera inferior a cual presupuesto?",
+        " idRespuestaEsperada(idArticulo) ": " 10196"
+    },
+    {
+        "idConsulta": "111",
+        " Consulta": " Las disposiciones de esta ley son aplicables a todos los niveles y regimenes especiales educativos con excepcion cuales articulos?",
+        " idRespuestaEsperada(idArticulo) ": " 10197"
+    },
+    {
+        "idConsulta": "112",
+        " Consulta": " Que derechos tienen los padres o tutores de los alumnos/as?",
+        " idRespuestaEsperada(idArticulo) ": " 10173"
+    },
+    {
+        "idConsulta": "113",
+        " Consulta": " Que obligaciones tienen los padres o tutores de los alumnos/as?",
+        " idRespuestaEsperada(idArticulo) ": " 10174"
+    },
+    {
+        "idConsulta": "114",
+        " Consulta": " Cuales derechos de todos los trabajadores/as de la educacion del ambito estatal y privado se resguardaran?",
+        " idRespuestaEsperada(idArticulo) ": " 10175"
+    },
+    {
+        "idConsulta": "115",
+        " Consulta": " Cuales son los deberes de los trabajadores de la educacion?",
+        " idRespuestaEsperada(idArticulo) ": " 10176"
+    },
+    {
+        "idConsulta": "116",
+        " Consulta": " Que deberan garantizar el Ministerio de Cultura y Educacion de la Nacion, las provincias y la Municipalidad de la Ciudad de Buenos Aires?",
+        " idRespuestaEsperada(idArticulo) ": " 10177"
+    },
+    {
+        "idConsulta": "117",
+        " Consulta": " Cuales son las funciones del Responsible?",
+        " idRespuestaEsperada(idArticulo) ": " 10098"
+    },
+    {
+        "idConsulta": "118",
+        " Consulta": " Que confeccionara para cada carrera de cada sede y/o subsede el Departamento Personal de la Facultad?",
+        " idRespuestaEsperada(idArticulo) ": " 10103"
+    },
+    {
+        "idConsulta": "119",
+        " Consulta": " Como sera la emision del voto?",
+        " idRespuestaEsperada(idArticulo) ": " 10104"
+    },
+    {
+        "idConsulta": "120",
+        " Consulta": " Durante cuantos dias sera la emision de votos?",
+        " idRespuestaEsperada(idArticulo) ": " 10108"
+    },
+    {
+        "idConsulta": "121",
+        " Consulta": " Que debera presentar para la emision del voto el sufragante?",
+        " idRespuestaEsperada(idArticulo) ": " 10109"
+    },
+    {
+        "idConsulta": "122",
+        " Consulta": " Cuales seran las funciones de los consejos de carrera?",
+        " idRespuestaEsperada(idArticulo) ": " 10118"
+    },
+    {
+        "idConsulta": "123",
+        " Consulta": " Cuantos anos duraran en sus funciones los representantes del Consejo de carrera?",
+        " idRespuestaEsperada(idArticulo) ": " 10121"
+    },
+    {
+        "idConsulta": "124",
+        " Consulta": " Cuales son los objetivos de la Educacion Especial?",
+        " idRespuestaEsperada(idArticulo) ": " 10157"
+    },
+    {
+        "idConsulta": "125",
+        " Consulta": " Cuales son los objetivos de la Educacion de Adultos?",
+        " idRespuestaEsperada(idArticulo) ": " 10159"
+    },
+    {
+        "idConsulta": "126",
+        " Consulta": " Cuales son las funciones de las autoridades educativas oficiales?",
+        " idRespuestaEsperada(idArticulo) ": " 10162"
+    },
+    {
+        "idConsulta": "127",
+        " Consulta": " Cuales son las obligaciones del El Estado nacional, las provincias y la Municipalidad de la Ciudad de Buenos Aires?",
+        " idRespuestaEsperada(idArticulo) ": " 10168"
+    },
+    {
+        "idConsulta": "128",
+        " Consulta": " Cuales son los derechos de los educandos?",
+        " idRespuestaEsperada(idArticulo) ": " 10172"
+    },
+    {
+        "idConsulta": "129",
+        " Consulta": " Cuales son los objetivos de la formacion docente?",
+        " idRespuestaEsperada(idArticulo) ": " 10147"
+    },
+    {
+        "idConsulta": "130",
+        " Consulta": " Cual es el plazo sugerido para la presentacion del trabajo a partir de la presentacion de la propuesta?",
+        " idRespuestaEsperada(idArticulo) ": " 10084"
+    },
+    {
+        "idConsulta": "131",
+        " Consulta": " Quienes son los integrantes del jurado de la tesis",
+        " idRespuestaEsperada(idArticulo) ": " 10078"
+    },
+    {
+        "idConsulta": "132",
+        " Consulta": " Por donde debe ser avisada la fecha de presentacion de la tesis de licenciatura? ",
+        " idRespuestaEsperada(idArticulo) ": " 10080"
+    },
+    {
+        "idConsulta": "133",
+        " Consulta": " Por quien sera establecido el grado academico o profesional minimo de los asesores de tesis?",
+        " idRespuestaEsperada(idArticulo) ": " 10072"
+    },
+    {
+        "idConsulta": "134",
+        " Consulta": " Por quien sera establecido el el nombre y contenidos especificos de cada capitulo",
+        " idRespuestaEsperada(idArticulo) ": " 10075"
+    },
+    {
+        "idConsulta": "135",
+        " Consulta": " Quien es la responsable de administrar el proceso de tesis para los alumnos inscriptos en las asignaturas pertienentes y/o candidatos al grado en proceso de titulacion?",
+        " idRespuestaEsperada(idArticulo) ": " 10073"
+    },
+    {
+        "idConsulta": "136",
+        " Consulta": " Quienes pueden ejercer la docencia libre?",
+        " idRespuestaEsperada(idArticulo) ": " 466"
+    },
+    {
+        "idConsulta": "137",
+        " Consulta": " Cuales son las funciones del consejo de investigadores?",
+        " idRespuestaEsperada(idArticulo) ": " 470"
+    },
+    {
+        "idConsulta": "138",
+        " Consulta": " Que se requiere para ser electo Responsable de Carrera?",
+        " idRespuestaEsperada(idArticulo) ": " 10093"
+    },
+    {
+        "idConsulta": "139",
+        " Consulta": " Cuales son los bienes de la universidad?",
+        " idRespuestaEsperada(idArticulo) ": " 473"
+    },
+    {
+        "idConsulta": "140",
+        " Consulta": " Que constituye el fondo univsersitario?",
+        " idRespuestaEsperada(idArticulo) ": " 474"
+    },
+    {
+        "idConsulta": "141",
+        " Consulta": " Que se requiere para ser electo como representantes docentes en el consejo de carrera?",
+        " idRespuestaEsperada(idArticulo) ": " 10120"
+    },
+    {
+        "idConsulta": "142",
+        " Consulta": " Para que sera utilizado el fondo universitario?",
+        " idRespuestaEsperada(idArticulo) ": " 475"
+    },
+    {
+        "idConsulta": "143",
+        " Consulta": " Para que no puede ser utilizado el fondo universitario?",
+        " idRespuestaEsperada(idArticulo) ": " 476"
+    },
+    {
+        "idConsulta": "144",
+        " Consulta": " En que consiste la docencia libre?",
+        " idRespuestaEsperada(idArticulo) ": " 465"
+    },
+    {
+        "idConsulta": "145",
+        " Consulta": " Quienes podran elegir a los docentes integrantes del consejo de carrera?",
+        " idRespuestaEsperada(idArticulo) ": " 10119"
+    },
+    {
+        "idConsulta": "146",
+        " Consulta": " A que le presta preferente atencion la universidad?",
+        " idRespuestaEsperada(idArticulo) ": " 454"
+    },
+    {
+        "idConsulta": "147",
+        " Consulta": " Que se requiere para ser consejero estudiante?",
+        " idRespuestaEsperada(idArticulo) ": " 452"
+    },
+    {
+        "idConsulta": "148",
+        " Consulta": " Que fomenta la universidad como centro de creacion de conocimientos?",
+        " idRespuestaEsperada(idArticulo) ": " 467"
+    },
+    {
+        "idConsulta": "149",
+        " Consulta": " Que recibira el Responsable de carrera electo como titular?",
+        " idRespuestaEsperada(idArticulo) ": " 10096"
+    },
+    {
+        "idConsulta": "150",
+        " Consulta": " Que sucede con un docente que falta a la cuarta parte de sus clases fijadas por el horario oficial sin causa?",
+        " idRespuestaEsperada(idArticulo) ": " 492"
+    },
+    {
+        "idConsulta": "151",
+        " Consulta": " Cual es la norma General?",
+        " idRespuestaEsperada(idArticulo) ": " 3"
+    },
+    {
+        "idConsulta": "152",
+        " Consulta": " Que propondra cada Unidad Academica mediante Resolucion del Consejo Directivo al Consejo Superior?",
+        " idRespuestaEsperada(idArticulo) ": " 4"
+    },
+    {
+        "idConsulta": "153",
+        " Consulta": " De quien estara a cargo la difusion del llamada concurso?",
+        " idRespuestaEsperada(idArticulo) ": " 6"
+    },
+    {
+        "idConsulta": "154",
+        " Consulta": " Dentro de cuantos dias podra publicar el Rectorado una vez aprobado el llamado a concurso?",
+        " idRespuestaEsperada(idArticulo) ": " 6"
+    },
+    {
+        "idConsulta": "155",
+        " Consulta": " Que contendran sinteticamente los anuncios?",
+        " idRespuestaEsperada(idArticulo) ": " 8"
+    },
+    {
+        "idConsulta": "156",
+        " Consulta": " Cuales son las condiciones de los aspirantes?",
+        " idRespuestaEsperada(idArticulo) ": " 9"
+    },
+    {
+        "idConsulta": "157",
+        " Consulta": " Cual es el plazo de inscripcion",
+        " idRespuestaEsperada(idArticulo) ": " 10"
+    },
+    {
+        "idConsulta": "158",
+        " Consulta": " Donde es la oficina de Inscripcion?",
+        " idRespuestaEsperada(idArticulo) ": " 11"
+    },
+    {
+        "idConsulta": "159",
+        " Consulta": " Cuales son las solicitudes de Inscricpion?",
+        " idRespuestaEsperada(idArticulo) ": " 12"
+    },
+    {
+        "idConsulta": "160",
+        " Consulta": " Cual es el Planeamiento de la Catedra?",
+        " idRespuestaEsperada(idArticulo) ": " 14"
+    },
+    {
+        "idConsulta": "161",
+        " Consulta": " En que consiste la Presentacion irregular y tardia?",
+        " idRespuestaEsperada(idArticulo) ": " 15"
+    },
+    {
+        "idConsulta": "162",
+        " Consulta": " Que sucede transcurridos 3 meses el cierre de la inscripcion?",
+        " idRespuestaEsperada(idArticulo) ": " 16"
+    },
+    {
+        "idConsulta": "163",
+        " Consulta": " De que se trata el Apoderado?",
+        " idRespuestaEsperada(idArticulo) ": " 17"
+    },
+    {
+        "idConsulta": "164",
+        " Consulta": " De que se trata las Inscripciones Multiples?",
+        " idRespuestaEsperada(idArticulo) ": " 18"
+    },
+    {
+        "idConsulta": "165",
+        " Consulta": " Cuando es el cierre de inscripcion?",
+        " idRespuestaEsperada(idArticulo) ": " 19"
+    },
+    {
+        "idConsulta": "166",
+        " Consulta": " De que se trata la Exhibicion de la nomina de aspirantes?",
+        " idRespuestaEsperada(idArticulo) ": " 20"
+    },
+    {
+        "idConsulta": "167",
+        " Consulta": " De que se trata la Impugnacion de los aspirantes?",
+        " idRespuestaEsperada(idArticulo) ": " 21"
+    },
+    {
+        "idConsulta": "168",
+        " Consulta": " Que suspendera la interposicion de la impugnacion?",
+        " idRespuestaEsperada(idArticulo) ": " 22"
+    },
+    {
+        "idConsulta": "169",
+        " Consulta": " Como sera la designacion del jurado?",
+        " idRespuestaEsperada(idArticulo) ": " 25"
+    },
+    {
+        "idConsulta": "170",
+        " Consulta": " Cual es la composicion del jurado?",
+        " idRespuestaEsperada(idArticulo) ": " 26"
+    },
+    {
+        "idConsulta": "171",
+        " Consulta": " Que condiciones deberan reunir los integrantes del jurado?",
+        " idRespuestaEsperada(idArticulo) ": " 27"
+    },
+    {
+        "idConsulta": "172",
+        " Consulta": " Que se debera notificar luego de ser designados los Jurados?",
+        " idRespuestaEsperada(idArticulo) ": " 28"
+    },
+    {
+        "idConsulta": "173",
+        " Consulta": " Cuales son los derechos de los estudiantes de las instituciones estatales de educacion superior?",
+        " idRespuestaEsperada(idArticulo) ": " 234"
+    },
+    {
+        "idConsulta": "174",
+        " Consulta": " Cual es el requisito principal para acceder a la educacion de grado?",
+        " idRespuestaEsperada(idArticulo) ": " 228"
+    },
+    {
+        "idConsulta": "175",
+        " Consulta": " Cuales son los objetivos de la Educacion Superior?",
+        " idRespuestaEsperada(idArticulo) ": " 225"
+    },
+    {
+        "idConsulta": "176",
+        " Consulta": " Que proporciona la educacion superior?",
+        " idRespuestaEsperada(idArticulo) ": " 224"
+    },
+    {
+        "idConsulta": "177",
+        " Consulta": " Que es responsable de proveer el Estado Nacional?",
+        " idRespuestaEsperada(idArticulo) ": " 222"
+    },
+    {
+        "idConsulta": "178",
+        " Consulta": " Que se debe acreditar para ser alumno auxiliar?",
+        " idRespuestaEsperada(idArticulo) ": " 167"
+    },
+    {
+        "idConsulta": "179",
+        " Consulta": " Se contaran dias no habiles en los terminos del Estatuto?",
+        " idRespuestaEsperada(idArticulo) ": " 501"
+    },
+    {
+        "idConsulta": "180",
+        " Consulta": " Quienes pueden suspender a los docentes?",
+        " idRespuestaEsperada(idArticulo) ": " 491"
+    },
+    {
+        "idConsulta": "181",
+        " Consulta": " Que forma parte del fondo Uiversitario?",
+        " idRespuestaEsperada(idArticulo) ": " 474"
+    },
+    {
+        "idConsulta": "182",
+        " Consulta": " Como se lleva a cabo la docencia libre?",
+        " idRespuestaEsperada(idArticulo) ": " 465"
+    },
+    {
+        "idConsulta": "183",
+        " Consulta": " Quienes podran ejercer la docencia libre?",
+        " idRespuestaEsperada(idArticulo) ": " 466"
+    },
+    {
+        "idConsulta": "184",
+        " Consulta": " Cuales son las categorias de adscriptos para catedras, proyectos de extension y proyectos de investigacion?",
+        " idRespuestaEsperada(idArticulo) ": " 10007"
+    },
+    {
+        "idConsulta": "185",
+        " Consulta": " Quien podra publicar el trabajo final de un alumno?",
+        " idRespuestaEsperada(idArticulo) ": " 10018"
+    },
+    {
+        "idConsulta": "186",
+        " Consulta": " Como se evalua el trabajo final?",
+        " idRespuestaEsperada(idArticulo) ": " 10019"
+    },
+    {
+        "idConsulta": "187",
+        " Consulta": " Que cualidades debe tener la tesis?",
+        " idRespuestaEsperada(idArticulo) ": " 10036"
+    },
+    {
+        "idConsulta": "188",
+        " Consulta": " Puede realizarse un cambio de director de tesis?",
+        " idRespuestaEsperada(idArticulo) ": " 10044"
+    },
+    {
+        "idConsulta": "189",
+        " Consulta": " En que momento puede realizarse correcciones al contenido del proyecto?",
+        " idRespuestaEsperada(idArticulo) ": " 10045"
+    },
+    {
+        "idConsulta": "190",
+        " Consulta": " En que se basa la evaluacion de la propuesta de tesis?",
+        " idRespuestaEsperada(idArticulo) ": " 10049"
+    },
+    {
+        "idConsulta": "191",
+        " Consulta": " En que consiste la aprobacion de la propuesta de tesis?",
+        " idRespuestaEsperada(idArticulo) ": " 10050"
+    },
+    {
+        "idConsulta": "192",
+        " Consulta": " Que sucede cuando el alumno presenta en su tesis tecnologias totalmente nuevas?",
+        " idRespuestaEsperada(idArticulo) ": " 10056"
+    },
+    {
+        "idConsulta": "193",
+        " Consulta": " Como se elige al director de la tesis?",
+        " idRespuestaEsperada(idArticulo) ": " 10057"
+    },
+    {
+        "idConsulta": "194",
+        " Consulta": " Quien propone la codireccion de la tesis?",
+        " idRespuestaEsperada(idArticulo) ": " 10067"
+    },
+    {
+        "idConsulta": "195",
+        " Consulta": " Cuales son las normas para la presentacion de la tesis?",
+        " idRespuestaEsperada(idArticulo) ": " 10077"
+    },
+    {
+        "idConsulta": "196",
+        " Consulta": " Cual es el plazo de presentacion de la tesis?",
+        " idRespuestaEsperada(idArticulo) ": " 10084"
+    },
+    {
+        "idConsulta": "197",
+        " Consulta": " Cual es el plazo de entrega de la tesis antes de la presentacion?",
+        " idRespuestaEsperada(idArticulo) ": " 10083"
+    },
+    {
+        "idConsulta": "198",
+        " Consulta": " Como es la emision de cualquier tipo de voto dentro de la Universidad?",
+        " idRespuestaEsperada(idArticulo) ": " 189"
+    },
+    {
+        "idConsulta": "199",
+        " Consulta": " Que sucede si hay empate en las elecciones de resposbles de carrera?",
+        " idRespuestaEsperada(idArticulo) ": " 10112"
+    },
+    {
+        "idConsulta": "200",
+        " Consulta": " Quien responde ante un aspecto no previsto en el reglamento?",
+        " idRespuestaEsperada(idArticulo) ": " 10114"
+    },
+    {
+        "idConsulta": "201",
+        " Consulta": " De que consejos tiene apoyo  el consejo federal de cultura y educacion?",
+        " idRespuestaEsperada(idArticulo) ": " 10187"
+    },
+    {
+        "idConsulta": "202",
+        " Consulta": " Quienes integran la comunidad educativa?",
+        " idRespuestaEsperada(idArticulo) ": " 10171"
+    },
+    {
+        "idConsulta": "203",
+        " Consulta": " A que se obligan el estado nacional, las provincias y la municipalidad de Buenos Aires?",
+        " idRespuestaEsperada(idArticulo) ": " 10169"
+    },
+    {
+        "idConsulta": "204",
+        " Consulta": " A que tienen derechos los docentes de las instituciones de gestion privada?",
+        " idRespuestaEsperada(idArticulo) ": " 10167"
+    },
+    {
+        "idConsulta": "205",
+        " Consulta": " Que promueven las autoridades educativas oficiales?",
+        " idRespuestaEsperada(idArticulo) ": " 10164"
+    },
+    {
+        "idConsulta": "206",
+        " Consulta": " Bajo que responsabilidad esta la educacion de posgrado?",
+        " idRespuestaEsperada(idArticulo) ": " 10153"
+    },
+    {
+        "idConsulta": "207",
+        " Consulta": " Que tiene como objetivos la formacion docente?",
+        " idRespuestaEsperada(idArticulo) ": " 10147"
+    },
+    {
+        "idConsulta": "208",
+        " Consulta": " Cuales son los objetivos del ciclo polimodal?",
+        " idRespuestaEsperada(idArticulo) ": " 10144"
+    },
+    {
+        "idConsulta": "209",
+        " Consulta": " Que tiene como objetivos la educacion inicial basica?",
+        " idRespuestaEsperada(idArticulo) ": " 10143"
+    },
+    {
+        "idConsulta": "210",
+        " Consulta": " Como ha de ser el sistema educativo?",
+        " idRespuestaEsperada(idArticulo) ": " 10137"
+    },
+    {
+        "idConsulta": "211",
+        " Consulta": " Que debe asegurar el sistema educativo a todos los habitantes del pais?",
+        " idRespuestaEsperada(idArticulo) ": " 10136"
+    },
+    {
+        "idConsulta": "212",
+        " Consulta": " Que derechos debera respetar el estado nacional?",
+        " idRespuestaEsperada(idArticulo) ": " 10133"
+    },
+    {
+        "idConsulta": "213",
+        " Consulta": " De quien son responsabilidad las acciones educativas?",
+        " idRespuestaEsperada(idArticulo) ": " 10132"
+    },
+    {
+        "idConsulta": "214",
+        " Consulta": " Que responsabilidad tiene el estado nacional?",
+        " idRespuestaEsperada(idArticulo) ": " 10130"
+    },
+    {
+        "idConsulta": "215",
+        " Consulta": " Que funciones tiene el consejo de carreras?",
+        " idRespuestaEsperada(idArticulo) ": " 10116"
+    },
+    {
+        "idConsulta": "216",
+        " Consulta": " Que pasa en caso de empate?",
+        " idRespuestaEsperada(idArticulo) ": " 10112"
+    },
+    {
+        "idConsulta": "217",
+        " Consulta": " Cuando se realiza el escrutinio?",
+        " idRespuestaEsperada(idArticulo) ": " 10111"
+    },
+    {
+        "idConsulta": "218",
+        " Consulta": " Que debe hacerse para ser oficializada una postulacion?",
+        " idRespuestaEsperada(idArticulo) ": " 10106"
+    },
+    {
+        "idConsulta": "219",
+        " Consulta": " Como es la emision de voto?",
+        " idRespuestaEsperada(idArticulo) ": " 10104"
+    },
+    {
+        "idConsulta": "220",
+        " Consulta": " Como se constituye la junta electoral?",
+        " idRespuestaEsperada(idArticulo) ": " 10102"
+    },
+    {
+        "idConsulta": "221",
+        " Consulta": " Como es la eleccion de responsables?",
+        " idRespuestaEsperada(idArticulo) ": " 10100"
+    },
+    {
+        "idConsulta": "222",
+        " Consulta": " Cuales son las funciones del responsable?",
+        " idRespuestaEsperada(idArticulo) ": " 10098"
+    },
+    {
+        "idConsulta": "223",
+        " Consulta": " Como es la actividad del responsable suplente?",
+        " idRespuestaEsperada(idArticulo) ": " 10097"
+    },
+    {
+        "idConsulta": "224",
+        " Consulta": " Cuanto tiempo duran los responsables en sus funciones?",
+        " idRespuestaEsperada(idArticulo) ": " 10094"
+    },
+    {
+        "idConsulta": "225",
+        " Consulta": " Que se requiere para ser electo como responsable ?",
+        " idRespuestaEsperada(idArticulo) ": " 10093"
+    },
+    {
+        "idConsulta": "226",
+        " Consulta": " Cuantos responsables hay por cada carrera?",
+        " idRespuestaEsperada(idArticulo) ": " 10089"
+    },
+    {
+        "idConsulta": "227",
+        " Consulta": " Con cuanta antelacion se presenta la tesis?",
+        " idRespuestaEsperada(idArticulo) ": " 10083"
+    },
+    {
+        "idConsulta": "228",
+        " Consulta": " Que normas se deben tener en cuenta para la presentacion de tesis?",
+        " idRespuestaEsperada(idArticulo) ": " 10077"
+    },
+    {
+        "idConsulta": "229",
+        " Consulta": " Que funciones tiene la secretaria academica?",
+        " idRespuestaEsperada(idArticulo) ": " 10074"
+    },
+    {
+        "idConsulta": "230",
+        " Consulta": " Quienes pueden fungir como asesores de tesis?",
+        " idRespuestaEsperada(idArticulo) ": " 10070"
+    },
+    {
+        "idConsulta": "231",
+        " Consulta": " Que tiene como responsabilidad el director de tesis?",
+        " idRespuestaEsperada(idArticulo) ": " 10063"
+    },
+    {
+        "idConsulta": "232",
+        " Consulta": " Cuales son las funciones del director de tesis?",
+        " idRespuestaEsperada(idArticulo) ": " 10062"
+    },
+    {
+        "idConsulta": "233",
+        " Consulta": " Que pasa cuando el alumno decide cambiar de tema?",
+        " idRespuestaEsperada(idArticulo) ": " 10048"
+    },
+    {
+        "idConsulta": "234",
+        " Consulta": " Que produce un estudiante que elabora una tesis en la universidad Autonoma de Entre Rios?",
+        " idRespuestaEsperada(idArticulo) ": " 10053"
+    },
+    {
+        "idConsulta": "235",
+        " Consulta": " Que se observa para la aprobacion de la propuesta de tesis?",
+        " idRespuestaEsperada(idArticulo) ": " 10050"
+    },
+    {
+        "idConsulta": "236",
+        " Consulta": " Quien establece el numero maximo de integrantes para la presentacion de la tesis?",
+        " idRespuestaEsperada(idArticulo) ": " 10042"
+    },
+    {
+        "idConsulta": "237",
+        " Consulta": " Cuales son los tipos principales de tesis?",
+        " idRespuestaEsperada(idArticulo) ": " 10039"
+    },
+    {
+        "idConsulta": "238",
+        " Consulta": " Que tiene por finalidad la tesis?",
+        " idRespuestaEsperada(idArticulo) ": " 10035"
+    },
+    {
+        "idConsulta": "239",
+        " Consulta": " Con quien se acuerda el plazo de entrega del trabajo final?",
+        " idRespuestaEsperada(idArticulo) ": " 10017"
+    },
+    {
+        "idConsulta": "240",
+        " Consulta": " Quien resuelve la incorporacion de adscriptos a una catedra o proyecto?",
+        " idRespuestaEsperada(idArticulo) ": " 10011"
+    },
+    {
+        "idConsulta": "241",
+        " Consulta": " Que constituye la condicion de adscripto?",
+        " idRespuestaEsperada(idArticulo) ": " 10005"
+    },
+    {
+        "idConsulta": "242",
+        " Consulta": " Que puede hacer el consejo directivo?",
+        " idRespuestaEsperada(idArticulo) ": " 493"
+    },
+    {
+        "idConsulta": "243",
+        " Consulta": " Que tienen a cargo el rector, decano y los directores?",
+        " idRespuestaEsperada(idArticulo) ": " 488"
+    },
+    {
+        "idConsulta": "244",
+        " Consulta": " Que se entiende por bienes de la universidad?",
+        " idRespuestaEsperada(idArticulo) ": " 473"
+    },
+    {
+        "idConsulta": "245",
+        " Consulta": " Que es lo que fomenta la universidad",
+        " idRespuestaEsperada(idArticulo) ": " 472"
+    },
+    {
+        "idConsulta": "246",
+        " Consulta": " Que tiene como funciones el consejo de investigadores?",
+        " idRespuestaEsperada(idArticulo) ": " 470"
+    },
+    {
+        "idConsulta": "247",
+        " Consulta": " Que condiciones de realizacion de docencia reconoce la universidad?",
+        " idRespuestaEsperada(idArticulo) ": " 463"
+    },
+    {
+        "idConsulta": "248",
+        " Consulta": " Quien puede ser alumno vocacional?",
+        " idRespuestaEsperada(idArticulo) ": " 456"
+    },
+    {
+        "idConsulta": "249",
+        " Consulta": " Cual es el objetivo de instituir becas?",
+        " idRespuestaEsperada(idArticulo) ": " 455"
+    },
+    {
+        "idConsulta": "250",
+        " Consulta": " Que tienen por funciones los profesores titulares y asociados?",
+        " idRespuestaEsperada(idArticulo) ": " 433"
+    },
+    {
+        "idConsulta": "251",
+        " Consulta": " Cual es la definicion del monto de inversion publica en educacion? ",
+        " idRespuestaEsperada(idArticulo) ": " 10190"
+    },
+    {
+        "idConsulta": "252",
+        " Consulta": " A que se dedica El Consejo Federal de Cultura y Educacion?",
+        " idRespuestaEsperada(idArticulo) ": " 10185"
+    },
+    {
+        "idConsulta": "253",
+        " Consulta": " Que debera realizar el Porder Ejecutivo Nacional?",
+        " idRespuestaEsperada(idArticulo) ": " 10182"
+    },
+    {
+        "idConsulta": "254",
+        " Consulta": " De que se deben encargar los padres o tutores de los alumnos/as?",
+        " idRespuestaEsperada(idArticulo) ": " 10174"
+    },
+    {
+        "idConsulta": "255",
+        " Consulta": " Que proposito tiene la universidad?",
+        " idRespuestaEsperada(idArticulo) ": " 10150"
+    },
+    {
+        "idConsulta": "256",
+        " Consulta": " Que fin tiene la Educacion Inicial?",
+        " idRespuestaEsperada(idArticulo) ": " 10141"
+    },
+    {
+        "idConsulta": "257",
+        " Consulta": " Que nos asegura el sistema educativo a todos los habitantes del pais?",
+        " idRespuestaEsperada(idArticulo) ": " 10136"
+    },
+    {
+        "idConsulta": "258",
+        " Consulta": " Como se conforma la estructura del sistema educativo?",
+        " idRespuestaEsperada(idArticulo) ": " 10138"
+    },
+    {
+        "idConsulta": "259",
+        " Consulta": " Quien controla el cumplimienot de la politica educativa?",
+        " idRespuestaEsperada(idArticulo) ": " 10130"
+    },
+    {
+        "idConsulta": "260",
+        " Consulta": " Como se elige a los docentes integrantes del consejo de carreras?",
+        " idRespuestaEsperada(idArticulo) ": " 10119"
+    },
+    {
+        "idConsulta": "261",
+        " Consulta": " De que manera se oficializa una postulacion?",
+        " idRespuestaEsperada(idArticulo) ": " 10106"
+    },
+    {
+        "idConsulta": "262",
+        " Consulta": " Quienes seran electores?",
+        " idRespuestaEsperada(idArticulo) ": " 10105"
+    },
+    {
+        "idConsulta": "263",
+        " Consulta": " Como se elige el Responsable de carrera?",
+        " idRespuestaEsperada(idArticulo) ": " 10099"
+    },
+    {
+        "idConsulta": "264",
+        " Consulta": " Cuales son los requisitos para ser electo Responsable de Carrera?",
+        " idRespuestaEsperada(idArticulo) ": " 10093"
+    },
+    {
+        "idConsulta": "265",
+        " Consulta": " Quien administra el proceso de la tesis?",
+        " idRespuestaEsperada(idArticulo) ": " 10073"
+    },
+    {
+        "idConsulta": "266",
+        " Consulta": " Que funcion cumplen los asesores de tesis?",
+        " idRespuestaEsperada(idArticulo) ": " 10069"
+    },
+    {
+        "idConsulta": "267",
+        " Consulta": " Como se realizan avances y modificaciones en el proyecto original de investgacion y tesis?",
+        " idRespuestaEsperada(idArticulo) ": " 10061"
+    },
+    {
+        "idConsulta": "268",
+        " Consulta": " Puede el alumno cambiar el tema de su tesis?",
+        " idRespuestaEsperada(idArticulo) ": " 10048"
+    },
+    {
+        "idConsulta": "269",
+        " Consulta": " Que tipo de tesis pueden desarrollar los alumnos?",
+        " idRespuestaEsperada(idArticulo) ": " 10039"
+    },
+    {
+        "idConsulta": "270",
+        " Consulta": " Cual es el objetivo de la tesis?",
+        " idRespuestaEsperada(idArticulo) ": " 10035"
+    },
+    {
+        "idConsulta": "271",
+        " Consulta": " Que sanciones pueden sufrir los Estudiantes de la Universidad por causas de inconducta? ",
+        " idRespuestaEsperada(idArticulo) ": " 494"
+    },
+    {
+        "idConsulta": "272",
+        " Consulta": " Que cargos tienen incompatibilidades en su ejercicio?",
+        " idRespuestaEsperada(idArticulo) ": " 487"
+    },
+    {
+        "idConsulta": "273",
+        " Consulta": " Quien nombra y remueve al personal de la Facultas?",
+        " idRespuestaEsperada(idArticulo) ": " 481"
+    },
+    {
+        "idConsulta": "274",
+        " Consulta": " Para que se permite utilizar el fondo Universitario?",
+        " idRespuestaEsperada(idArticulo) ": " 475"
+    },
+    {
+        "idConsulta": "275",
+        " Consulta": " Para que no se permite utilizar el fondo Universitario?",
+        " idRespuestaEsperada(idArticulo) ": " 476"
+    },
+    {
+        "idConsulta": "276",
+        " Consulta": " Como se constituyen los bienes de la facultad?",
+        " idRespuestaEsperada(idArticulo) ": " 473"
+    },
+    {
+        "idConsulta": "277",
+        " Consulta": " Como se debe orientar la ensenanza?",
+        " idRespuestaEsperada(idArticulo) ": " 462"
+    },
+    {
+        "idConsulta": "278",
+        " Consulta": " A que esta habilitado un alumno vocacional?",
+        " idRespuestaEsperada(idArticulo) ": " 456"
+    },
+    {
+        "idConsulta": "279",
+        " Consulta": " Aque se debe la entrega becas la Universidad?",
+        " idRespuestaEsperada(idArticulo) ": " 455"
+    },
+    {
+        "idConsulta": "280",
+        " Consulta": " Que elige el Cuerpo de Estudiantes?",
+        " idRespuestaEsperada(idArticulo) ": " 453"
+    },
+    {
+        "idConsulta": "281",
+        " Consulta": " Cuales son los requisitos para ser Consejero Estudiante?",
+        " idRespuestaEsperada(idArticulo) ": " 452"
+    },
+    {
+        "idConsulta": "282",
+        " Consulta": " Quien esta a cargo de propender los fines del Estatuto?",
+        " idRespuestaEsperada(idArticulo) ": " 448"
+    },
+    {
+        "idConsulta": "283",
+        " Consulta": " Que funciones tendran los profesores titulares y asociados?",
+        " idRespuestaEsperada(idArticulo) ": " 433"
+    },
+    {
+        "idConsulta": "284",
+        " Consulta": " Quien puede gozar de un ano de licencia para realizar actividades academicas?",
+        " idRespuestaEsperada(idArticulo) ": " 431"
+    },
+    {
+        "idConsulta": "285",
+        " Consulta": " Como se garantiza la actualizacion y perfeccionamiento del cuerpo docente?",
+        " idRespuestaEsperada(idArticulo) ": " 430"
+    },
+    {
+        "idConsulta": "286",
+        " Consulta": " Como se elige el Decano y Vicedecano?",
+        " idRespuestaEsperada(idArticulo) ": " 410"
+    },
+    {
+        "idConsulta": "287",
+        " Consulta": " Como se procede en caso que ningun candidato alcanzare tal mayoria absoluta de votos?",
+        " idRespuestaEsperada(idArticulo) ": " 409"
+    },
+    {
+        "idConsulta": "288",
+        " Consulta": " Cuales son obligaciones de la facultad?",
+        " idRespuestaEsperada(idArticulo) ": " 378"
+    },
+    {
+        "idConsulta": "289",
+        " Consulta": " Cuales son las diferentes modalidades del sistema educativo?",
+        " idRespuestaEsperada(idArticulo) ": " 371"
+    },
+    {
+        "idConsulta": "290",
+        " Consulta": " Como se debe proceder para la creacion de nuevas carreras o cambios en las ya existentes?",
+        " idRespuestaEsperada(idArticulo) ": " 365"
+    },
+    {
+        "idConsulta": "291",
+        " Consulta": " Cuales son los niveles del Sistema Educativo Provincial?",
+        " idRespuestaEsperada(idArticulo) ": " 334"
+    },
+    {
+        "idConsulta": "292",
+        " Consulta": " Que carateristicas tiene el Sistema Educativo Provincial?",
+        " idRespuestaEsperada(idArticulo) ": " 331"
+    },
+    {
+        "idConsulta": "293",
+        " Consulta": " Mediante que propuestas el Estado Provincial asegura la obligatoriedad?",
+        " idRespuestaEsperada(idArticulo) ": " 329"
+    },
+    {
+        "idConsulta": "294",
+        " Consulta": " Que abarca la obligatoriedad escolar?",
+        " idRespuestaEsperada(idArticulo) ": " 328"
+    },
+    {
+        "idConsulta": "295",
+        " Consulta": " Como se finanza el sistema educativo?",
+        " idRespuestaEsperada(idArticulo) ": " 324"
+    },
+    {
+        "idConsulta": "296",
+        " Consulta": " Cual es la responsabilidad principal del Estado Provincial?",
+        " idRespuestaEsperada(idArticulo) ": " 315"
+    },
+    {
+        "idConsulta": "297",
+        " Consulta": " Que sucede cuando una carrera no obtiene su acreditacion necesaria?",
+        " idRespuestaEsperada(idArticulo) ": " 299"
+    },
+    {
+        "idConsulta": "298",
+        " Consulta": " Quienes seran los organos de coordinacion y consulta del Sistema Universitario?",
+        " idRespuestaEsperada(idArticulo) ": " 294"
+    },
+    {
+        "idConsulta": "299",
+        " Consulta": " Que atribuciones tiene la autonomia academica e institucional?",
+        " idRespuestaEsperada(idArticulo) ": " 250"
+    },
+    {
+        "idConsulta": "300",
+        " Consulta": " Cuales son los deberes de los docentes de las instituciones estatales de educacion superior?",
+        " idRespuestaEsperada(idArticulo) ": " 233"
+    }
+]

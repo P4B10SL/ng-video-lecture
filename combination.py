@@ -20,20 +20,20 @@ for match in matches:
     }
 
 # Read the contents of the question-answer file
-with open('Consultas.csv', 'r') as f:
-    reader = csv.reader(f, delimiter=';')
-    qa_list = [row for row in reader]
+with open('Consultas_formateadas.csv', 'r') as f:
+    reader = csv.DictReader(f, delimiter=';')
+    qa_list = list(reader)
 
 # Combine the datasets
 data = []
 for qa in qa_list:
-    id = qa[2]  # Assuming 'idArticulo' is the third column
+    id = qa['idRespuestaEsperada(idArticulo)'].strip()   # Assuming 'idArticulo' is the third column
     if id in regulation_dict:
         data.append({
             "id": id,
             "title": regulation_dict[id]['title'],
             "context": regulation_dict[id]['context'],
-            "question": qa[1],  # Assuming 'Question' is the second column
+            "question": qa['Consulta'].strip(),  # Assuming 'Question' is the second column
             "answers": {
                 "text": [regulation_dict[id]['context']],
                 "answer_start": [1]
@@ -44,5 +44,5 @@ for qa in qa_list:
 json_data = json.dumps(data, indent=4)
 
 # Write the JSON data to a file
-with open('output.json', 'w') as f:
+with open('DatasetCombinado.json', 'w') as f:
     f.write(json_data)
