@@ -1,0 +1,301 @@
+idConsulta; Consulta; idRespuestaEsperada(idArticulo) 
+1; Cuales son las condiciones para presentarse a un concurso?; 9
+2; Quién debe regir la convocatoria para la designación por concurso de profesores ordinarios?; 3
+3; Cómo se publicita un llamado a concurso?; 6
+4; Qué contenido tienen los anuncios?; 8
+5; Cuales son los requisitos para los aspirantes a un concurso?; 9
+6; Cuales son los plazos de inscripción?; 10
+7; En dónde se realizan las inscripciones?; 11
+8; Que documentación deben presentar los aspirantes a un concurso?; 13
+9; Cuales son los requisitos ante inscripciones múltiples? ; 18
+10; Que se hace en el cierre de inscripción?; 19
+11; Que se realiza en la exhibición de nómina de aspirantes; 20
+12; Quienes pueden ejercer el derecho de impugnar la participación en el concurso de los aspirantes?; 21
+13; Que consecuencias tiene la interposición de la impugnación?; 22
+14; Que tiene que pasar para que el consejo directivo excluya a un aspirante?; 23
+15; Que organismo designa a los integrantes del jurado?; 25
+16; Que condiciones deben reunir los integrantes del jurado?; 27
+17; Cómo se realiza la recusasión de los miembros del jurado?; 29
+18; Cuales son los causales de recusasión para algún aspirante?; 28
+19; Qué organismo resuelve las recusasiones y excusasiones del jurado?; 33
+20; Quien reemplaza a un jurado recusado o excusado?; 34
+21; Que presencia hace falta para que el jurado funciones válidamente?; 39
+22; Que antelación tiene que haber para realizar un sorteo del tema y orden de exposición?; 40
+23; Cuales son las pautas para la evaluación de un aspirante?; 44
+24; Cuanto tiempo debe pasar para notificar las conclusiones del dictamen del jurado?; 49
+25; A cargo de que organismo está la designación de profesores por concurso?; 54
+26; Qué sucede cuando existen reales dificultades para obtener miembros del jurado?; 62
+27; Que se realiza ante la aparición de una nueva vacante o puesto curricular?; 70
+28; Qué carácter tienen las solicitudes de inscripción a un concurso docente?; 73
+29; Quienes pueden recusar a los miembros del jurado?; 80
+30; Quien resuelve las excusasiones y recusaciones ; 84
+31; Que actividades no puede realizar un alumno en categoría pasivo?; 102
+32; Hasta cuando se mantiene la regularidad de la asignatura?; 105
+33; Que implica la pérdida de regularidad?; 107
+34; Que es un alumno vocacional?; 109
+35; Que derechos tiene un alumno vocacional?; 110
+36; Como puede aprobar una asignatura un alumno regular?; 113
+37; Como puede aprobar una materia un alumno libre?; 114
+38; Como se expresa la calificación final de una asignatura?; 129
+39; Quienes pueden solicitar equivalencias de algunas asignaturas?; 133
+40; Que tipo de ámbitos son los consejos de carrera?; 201
+41; Que datos contienen los anuncios?; 8
+42; Quien esta a cargo de la difusion del llamado a concurso?; 6
+43; Cual es el periodo de inscripcion a la convocatoria?; 10
+44; Como realizo mi solicitud de inscripcion?; 12
+45; Cuando presento el pleanamiento de la catedra?; 14
+46; Puedo presentarme a mas de un concurso?; 18
+47; Puede un apoderado intervenir en mis tramites?; 17
+48; Como se designa al jurado?; 25
+49; Como se compone el jurado?; 26
+50; Cuales son las causales de recusacion de un miembro del jurado?; 30
+51; Como evalua el jurado al aspirante?; 44
+52; Quienes participan en la deliberacion del jurado?; 46
+53; Puede haber mas de un aspirante con el mismo merito?; 48
+54; Que restricciones tiene un alumno pasivo?; 102
+55; Que podra realizar un alumno activo?; 103
+56; Cuanto tiempo se mantiene la regularidad en una asignatura?; 105
+57; De que consta la perdida de la regularidad?; 107
+58; Que esta habilitado a realizar un alumno libre?; 114
+59; En que momento se da a conocer la condiicon de cada alumno?; 115
+60; Cuantos turnos de examenes finales se dictan por año lectivo?; 117
+61; Que contiene un acta de evaluacion?; 121
+62; Como se lleva control de asignaturas correlativas?; 131
+63; Con que categorias de docentes universitarios cuenta la Facultad?; 148
+64; Cuales son las normas para el dictado de clases?; 151
+65; Como se determina la condicion de los alumnos?; 163
+66; Quienes estan habilitados a ingresar a la ensenanza de grado?; 228
+67; Cuales son los derechos del estudiante?; 234
+68; Que requisitos se especifican para ser docente?; 257
+69; Cuales son las condiciones para acceder a la formación de posgrado?; 261
+70; De que se encarga el estado provincial?; 315
+71; Cuales son los objetivos de la educacion superior?; 362
+72; Cuales son las modalidades del sistema educativo?; 371
+73; Cuales son los organos del gobierno universitario?; 381
+74; Quienes integran el consejo superior?; 386
+75; Quienes integran el consejo directivo?; 396
+76; Cuales son las funciones del consejo directivo?; 399
+77; Cuales son los requsitos para ser decano de la Facultad?; 400
+78; Cuales son las funciones del decano?; 401
+79; Que categorias de estudaintes reconoce la facultad?; 451
+80; Cuales son las formas de realizar la docencia?; 463
+81; De que consta la docencia regular?; 464
+82; De que consta la docencia libre?; 465
+83; De que manera se fomenta el desarrollo de la investigacion?; 467
+84; Cual es el fondo universitario?; 474
+85; Que cargos son incompatibles?; 482
+86; Cuales son las medidas ante la ausencia de un docente?; 492
+87; Cual es el objetivo de la tesis de cada alumno?; 10035
+88; Que es la tesis del estudiante?; 10040
+89; Cual es el plazo para la presentacion de la tesis?; 10084
+90; Qué obligaciones tienen los padres o tutores de los alumnos ?; 10174
+91; Que derechos tienen los padres o tutores de los alumnos ?; 10173
+92; Que deberes tienen los trabajadores de la educación?; 10176
+93; Cuales son los objetivos de la educación  especial?; 10157
+94; Cuales son las funciones de las universidades?; 10150
+95; Cuales son los objetivos de la educación de adultos?; 10159
+96; Que tiene la formación docente como objetivos?; 10147
+97; Cuales son los derechos de los educandos?; 10172
+98; Que se verifica en la evaluación  de la calidad en el sistema educativo?; 10178
+99; Qué tiene como objetivos la educación de posgrado?; 10152
+100; Cuales son los deberes de los trabajadores de la educación?; 10176
+101; Qué verificará la evaluación de la calidad en el sistema educativo; 10178
+102; Qué deberá hacer el El Poder Ejecutivo nacional, a través del ministerio específico?; 10182
+103; Cuál es la misión del Consejo Federal de Cultura y Educación?; 10184
+104; Cuáles son las funciones del Consejo Federal de Cultura y Educación?; 10185
+105; Cuáles son los organos que se compone el Consejo Federal de Cultura y Educación?; 10186
+106; De que dos Consejos Consultivos recibirá apoyo el Consejo Federal de Cultura y Educación?; 10187
+107; Qué atribuciones tienen las autoridades componententes de las provincias y de la municipalidad de la Ciudad de Buenos Aires?; 10188
+108; Con que finalidad financia el Poder Ejecutivo nacional los programas especiales de desarrollo educativo? ; 10193
+109; Que acordaron El Ministerio de Cultura y Educación y las autoridades educativas de las provincias y de la Municipalidad de la Ciudad de Buenos Aires con el seno del Consejo Federal de Cultura y Educación?; 10195
+110; El presupuesto de la administración pública nacional 1993 sera inferior a cual presupuesto?; 10196
+111; Las disposiciones de esta ley son aplicables a todos los niveles y regímenes especiales educativos con excepción cuales artículos?; 10197
+112; Que derechos tienen los padres o tutores de los alumnos/as?; 10173
+113; Que obligaciones tienen los padres o tutores de los alumnos/as?; 10174
+114; Cuales derechos de todos los trabajadores/as de la educación del ámbito estatal y privado se resguardarán?; 10175
+115; Cuales son los deberes de los trabajadores de la educación?; 10176
+116; Que deberán garantizar el Ministerio de Cultura y Educación de la Nación, las provincias y la Municipalidad de la Ciudad de Buenos Aires?; 10177
+117; Cuales son las funciones del Responsible?; 10098
+118; Que confeccionará para cada carrera de cada sede y/o subsede el Departamento Personal de la Facultad?; 10103
+119; Cómo será la emisión del voto?; 10104
+120; Durante cuantos días sera la emisión de votos?; 10108
+121; Que deberá presentar para la emisión del voto el sufragante?; 10109
+122; Cuáles seran las funciones de los consejos de carrera?; 10118
+123; Cuantos años duraran en sus funciones los representantes del Consejo de carrera?; 10121
+124; Cuales son los objetivos de la Educación Especial?; 10157
+125; Cuales son los objetivos de la Educación de Adultos?; 10159
+126; Cuales son las funciones de las autoridades educativas oficiales?; 10162
+127; Cuales son las obligaciones del El Estado nacional, las provincias y la Municipalidad de la Ciudad de Buenos Aires?; 10168
+128; Cuales son los derechos de los educandos?; 10172
+129; Cuales son los objetivos de la formacion docente?; 10147
+130; Cual es el plazo sugerido para la presentacion del trabajo a partir de la presentacion de la propuesta?; 10084
+131; Quienes son los integrantes del jurado de la tesis; 10078
+132; Por donde debe ser avisada la fecha de presentación de la tesis de licenciatura? ; 10080
+133; Por quien sera establecido el grado académico o profesional mínimo de los asesores de tesis?; 10072
+134; Por quien sera establecido el el nombre y contenidos específicos de cada capítulo; 10075
+135; Quien es la responsable de administrar el proceso de tesis para los alumnos inscriptos en las asignaturas pertienentes y/o candidatos al grado en proceso de titulación?; 10073
+136; Quienes pueden ejercer la docencia libre?; 466
+137; Cuales son las funciones del consejo de investigadores?; 470
+138; Que se requiere para ser electo Responsable de Carrera?; 10093
+139; Cuales son los bienes de la universidad?; 473
+140; Que constituye el fondo univsersitario?; 474
+141; Que se requiere para ser electo como representantes docentes en el consejo de carrera?; 10120
+142; Para que será utilizado el fondo universitario?; 475
+143; Para que no puede ser utilizado el fondo universitario?; 476
+144; En qué consiste la docencia libre?; 465
+145; Quienes podran elegir a los docentes integrantes del consejo de carrera?; 10119
+146; A qué le presta preferente atención la universidad?; 454
+147; Qué se requiere para ser consejero estudiante?; 452
+148; Qué fomenta la universidad como centro de creación de conocimientos?; 467
+149; Qué recibirá el Responsable de carrera electo como titular?; 10096
+150; Qué sucede con un docente que falta a la cuarta parte de sus clases fijadas por el horario oficial sin causa?; 492
+151; Cuál es la norma General?; 3
+152; Que propondra cada Unidad Académica mediante Resolución del Consejo Directivo al Consejo Superior?; 4
+153; De quien estará a cargo la difusión del llamada concurso?; 6
+154; Dentro de cuantos dias podra publicar el Rectorado una vez aprobado el llamado a concurso?; 6
+155; Que contendrán sintéticamente los anuncios?; 8
+156; Cuales son las condiciones de los aspirantes?; 9
+157; Cual es el plazo de inscripcion; 10
+158; Donde es la oficina de Inscripción?; 11
+159; Cuáles son las solicitudes de Inscricpión?; 12
+160; Cual es el Planeamiento de la Cátedra?; 14
+161; En que consiste la Presentación irregular y tardía?; 15
+162; Qué sucede transcurridos 3 meses el cierre de la inscripción?; 16
+163; De que se trata el Apoderado?; 17
+164; De que se trata las Inscripciones Múltiples?; 18
+165; Cuando es el cierre de inscripción?; 19
+166; De que se trata la Exhibición de la nómina de aspirantes?; 20
+167; De que se trata la Impugnación de los aspirantes?; 21
+168; Qué suspenderá la interposición de la impugnación?; 22
+169; Como sera la designacion del jurado?; 25
+170; Cuál es la composición del jurado?; 26
+171; Qué condiciones deberán reunir los integrantes del jurado?; 27
+172; Que se debera notificar luego de ser designados los Jurados?; 28
+173; Cuales son los derechos de los estudiantes de las instituciones estatales de educación superior?; 234
+174; Cual es el requisito principal para acceder a la educacion de grado?; 228
+175; Cuales son los objetivos de la Educacion Superior?; 225
+176; Que proporciona la educacion superior?; 224
+177; Que es responsable de proveer el Estado Nacional?; 222
+178; Que se debe acreditar para ser alumno auxiliar?; 167
+179; Se contaran dias no habiles en los terminos del Estatuto?; 501
+180; Quienes pueden suspender a los docentes?; 491
+181; Que forma parte del fondo Uiversitario?; 474
+182; Como se lleva a cabo la docencia libre?; 465
+183; Quienes podran ejercer la docencia libre?; 466
+184; Cuales son las categorías de adscriptos para cátedras, proyectos de extensión y proyectos de investigación?; 10007
+185; Quien podra publicar el trabajo final de un alumno?; 10018
+186; Como se evalua el trabajo final?; 10019
+187; Que cualidades debe tener la tesis?; 10036
+188; Puede realizarse un cambio de director de tesis?; 10044
+189; En que momento puede realizarse correcciones al contenido del proyecto?; 10045
+190; En que se basa la evaluacion de la propuesta de tesis?; 10049
+191; En que consiste la aprobacion de la propuesta de tesis?; 10050
+192; Que sucede cuando el alumno presenta en su tesis tecnologias totalmente nuevas?; 10056
+193; Como se elige al director de la tesis?; 10057
+194; Quien propone la codireccion de la tesis?; 10067
+195; Cuales son las normas para la presentacion de la tesis?; 10077
+196; Cual es el plazo de presentacion de la tesis?; 10084
+197; Cual es el plazo de entrega de la tesis antes de la presentacion?; 10083
+198; Como es la emision de cualquier tipo de voto dentro de la Universidad?; 189
+199; Que sucede si hay empate en las elecciones de resposbles de carrera?; 10112
+200; Quien responde ante un aspecto no previsto en el reglamento?; 10114
+201; De que consejos tiene apoyo  el consejo federal de cultura y educación?; 10187
+202; Quienes integran la comunidad educativa?; 10171
+203; A que se obligan el estado nacional, las provincias y la municipalidad de Buenos Aires?; 10169
+204; A que tienen derechos los docentes de las instituciones de gestión privada?; 10167
+205; Que promueven las autoridades educativas oficiales?; 10164
+206; Bajo que responsabilidad está la educación de posgrado?; 10153
+207; Que tiene como objetivos la formación docente?; 10147
+208; Cuales son los objetivos del ciclo polimodal?; 10144
+209; Que tiene como objetivos la educación inicial básica?; 10143
+210; Como ha de ser el sistema educativo?; 10137
+211; Que debe asegurar el sistema educativo a todos los habitantes del país?; 10136
+212; Qué derechos deberá respetar el estado nacional?; 10133
+213; De quien son responsabilidad las acciones educativas?; 10132
+214; Qué responsabilidad tiene el estado nacional?; 10130
+215; Que funciones tiene el consejo de carreras?; 10116
+216; Qué pasa en caso de empate?; 10112
+217; Cuando se realiza el escrutinio?; 10111
+218; Qué debe hacerse para ser oficializada una postulación?; 10106
+219; Como es la emisión de voto?; 10104
+220; Como se constituye la junta electoral?; 10102
+221; Como es la elección de responsables?; 10100
+222; Cuales son las funciones del responsable?; 10098
+223; Como es la actividad del responsable suplente?; 10097
+224; Cuanto tiempo duran los responsables en sus funciones?; 10094
+225; Que se requiere para ser electo como responsable ?; 10093
+226; Cuantos responsables hay por cada carrera?; 10089
+227; Con cuanta antelación se presenta la tesis?; 10083
+228; Qué normas se deben tener en cuenta para la presentación de tesis?; 10077
+229; Que funciones tiene la secretaría académica?; 10074
+230; Quienes pueden fungir como asesores de tesis?; 10070
+231; Qué tiene como responsabilidad el director de tesis?; 10063
+232; Cuales son las funciones del director de tesis?; 10062
+233; Que pasa cuando el alumno decide cambiar de tema?; 10048
+234; Qué produce un estudiante que elabora una tesis en la universidad Autónoma de Entre Ríos?; 10053
+235; Qué se observa para la aprobación de la propuesta de tesis?; 10050
+236; Quien establece el número máximo de integrantes para la presentación de la tesis?; 10042
+237; Cuales son los tipos principales de tesis?; 10039
+238; Que tiene por finalidad la tesis?; 10035
+239; Con quien se acuerda el plazo de entrega del trabajo final?; 10017
+240; Quien resuelve la incorporación de adscriptos a una cátedra o proyecto?; 10011
+241; Qué constituye la condición de adscripto?; 10005
+242; Que puede hacer el consejo directivo?; 493
+243; Que tienen a cargo el rector, decano y los directores?; 488
+244; Que se entiende por bienes de la universidad?; 473
+245; Que es lo que fomenta la universidad; 472
+246; Que tiene como funciones el consejo de investigadores?; 470
+247; Que condiciones de realización de docencia reconoce la universidad?; 463
+248; Quien puede ser alumno vocacional?; 456
+249; Cual es el objetivo de instituir becas?; 455
+250; Que tienen por funciones los profesores titulares y asociados?; 433
+251; Cual es la definicion del monto de inversion publica en educacion? ; 10190
+252; A que se dedica El Consejo Federal de Cultura y Educación?; 10185
+253; Que debera realizar el Porder Ejecutivo Nacional?; 10182
+254; De que se deben encargar los padres o tutores de los alumnos/as?; 10174
+255; Que proposito tiene la universidad?; 10150
+256; Que fin tiene la Educacion Inicial?; 10141
+257; Que nos asegura el sistema educativo a todos los habitantes del pais?; 10136
+258; Como se conforma la estructura del sistema educativo?; 10138
+259; Quien controla el cumplimienot de la politica educativa?; 10130
+260; Como se elige a los docentes integrantes del consejo de carreras?; 10119
+261; De que manera se oficializa una postulacion?; 10106
+262; Quienes seran electores?; 10105
+263; Como se elige el Responsable de carrera?; 10099
+264; Cuales son los requisitos para ser electo Responsable de Carrera?; 10093
+265; Quien administra el proceso de la tesis?; 10073
+266; Que funcion cumplen los asesores de tesis?; 10069
+267; Como se realizan avances y modificaciones en el proyecto original de investgacion y tesis?; 10061
+268; Puede el alumno cambiar el tema de su tesis?; 10048
+269; Que tipo de tesis pueden desarrollar los alumnos?; 10039
+270; Cual es el objetivo de la tesis?; 10035
+271; Que sanciones pueden sufrir los Estudiantes de la Universidad por causas de inconducta? ; 494
+272; Que cargos tienen incompatibilidades en su ejercicio?; 487
+273; Quien nombra y remueve al personal de la Facultas?; 481
+274; Para que se permite utilizar el fondo Universitario?; 475
+275; Para que no se permite utilizar el fondo Universitario?; 476
+276; Como se constituyen los bienes de la facultad?; 473
+277; Como se debe orientar la enseñanza?; 462
+278; A que esta habilitado un alumno vocacional?; 456
+279; Aque se debe la entrega becas la Universidad?; 455
+280; Que elige el Cuerpo de Estudiantes?; 453
+281; Cuales son los requisitos para ser Consejero Estudiante?; 452
+282; Quien esta a cargo de propender los fines del Estatuto?; 448
+283; Que funciones tendran los profesores titulares y asociados?; 433
+284; Quien puede gozar de un año de licencia para realizar actividades academicas?; 431
+285; Como se garantiza la actualizacion y perfeccionamiento del cuerpo docente?; 430
+286; Como se elige el Decano y Vicedecano?; 410
+287; Como se procede en caso que ningún candidato alcanzare tal mayoría absoluta de votos?; 409
+288; Cuales son obligaciones de la facultad?; 378
+289; Cuales son las diferentes modalidades del sistema educativo?; 371
+290; Como se debe proceder para la creación de nuevas carreras o cambios en las ya existentes?; 365
+291; Cuales son los niveles del Sistema Educativo Provincial?; 334
+292; Que carateristicas tiene el Sistema Educativo Provincial?; 331
+293; Mediante que propuestas el Estado Provincial asegura la obligatoriedad?; 329
+294; Que abarca la obligatoriedad escolar?; 328
+295; Como se finanza el sistema educativo?; 324
+296; Cual es la responsabilidad principal del Estado Provincial?; 315
+297; Que sucede cuando una carrera no obtiene su acreditacion necesaria?; 299
+298; Quienes seran los organos de coordinacion y consulta del Sistema Universitario?; 294
+299; Que atribuciones tiene la autonomia academica e institucional?; 250
+300; Cuales son los deberes de los docentes de las instituciones estatales de educación superior?; 233
