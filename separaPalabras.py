@@ -9,3 +9,5 @@ words_and_symbols = re.findall(r'\w+[:]?|\S', text)
 unique_sorted_words_and_symbols = sorted(set(words_and_symbols))
 
 print(unique_sorted_words_and_symbols)
+
+#nltk word=tokenizer
