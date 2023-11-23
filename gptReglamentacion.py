@@ -1,6 +1,9 @@
 import nltk
 import torch # we use PyTorch: https://pytorch.org
 
+with open('Reglamentacion.txt', 'r', encoding='utf-8') as f:
+    text = f.read()
+
 words = nltk.tokenize.word_tokenize(text, language='spanish', preserve_line=False)
 vocab_size = len(words)
 
