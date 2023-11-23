@@ -1,13 +1,17 @@
-import re
+import nltk
+import torch # we use PyTorch: https://pytorch.org
 
-with open('Reglamentacion_sin_tildes.txt', 'r', encoding='utf-8') as f:
-    text = f.read()
+words = nltk.tokenize.word_tokenize(text, language='spanish', preserve_line=False)
+vocab_size = len(words)
 
-words_and_symbols = re.findall(r'\w+[:]?|\S', text)
+# create a mapping from words to integers
+stoi = { word:i for i, word in enumerate(words) }
+itos = { i:word for i, word in enumerate(words) }
 
-# Remove duplicates by converting the list to a set, then sort by converting back to a list
-unique_sorted_words_and_symbols = sorted(set(words_and_symbols))
+encode = lambda s: [stoi[word] for word in s.split()] # encoder: take a string, output a list of integers
+decode = lambda l: ' '.join([itos[i] for i in l]) # decoder: take a list of integers, output a string
 
-print(unique_sorted_words_and_symbols)
-
-#nltk word=tokenizer
+# let's now encode the entire text dataset and store it into a torch.Tensor
+data = torch.tensor(encode(text), dtype=torch.long)
+print(data.shape, data.dtype)
+print(data[:1000]) # the 1000 characters we looked at earier will to the GPT look like this
