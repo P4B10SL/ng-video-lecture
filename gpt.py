@@ -1,7 +1,12 @@
 import torch
 import torch.nn as nn
 from torch.nn import functional as F
+import nltk
+from nltk.tokenize import word_tokenize
 import re
+
+#* Default Values
+"""
 # hyperparameters
 batch_size = 64 # how many independent sequences will we process in parallel?
 block_size = 256 # what is the maximum context length for predictions?
@@ -15,29 +20,37 @@ n_head = 6
 n_layer = 6
 dropout = 0.2
 # ------------
+""" 
+#* Values for Laptop i3-4030u 12Gb RAM, no GPU
+# hyperparameters
+batch_size = 4 # how many independent sequences will we process in parallel?
+block_size = 8 # what is the maximum context length for predictions?
+max_iters = 5000
+eval_interval = 100
+learning_rate = 1e-3
+device = 'cuda' if torch.cuda.is_available() else 'cpu'
+eval_iters = 200
+n_embd = 64
+n_head = 4
+n_layer = 4
+dropout = 0.2
+# ------------
+
+
 
 torch.manual_seed(1337)
 
-# wget https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt
 with open('Reglamentacion_sin_tildes.txt', 'r', encoding='utf-8') as f:
     text = f.read()
 
-words_and_symbols_pattern = re.compile(r'\S+')
-#words_and_symbols = re.findall(r'\(\w+\)|\w+[,|:|.|;|/)]?|\S', text)
-sorted_set_words_and_symbols = sorted(set(words_and_symbols_pattern.findall(text)))
-#sorted_set_words_and_symbols = sorted(set(words_and_symbols)
-
+words_and_symbols= nltk.tokenize.word_tokenize(text, language='spanish', preserve_line=False)
+sorted_set_words_and_symbols = sorted(set(words_and_symbols), key=lambda x: words_and_symbols.index(x))
 
 # here are all the unique characters that occur in this text
 chars = sorted_set_words_and_symbols
 vocab_size = len(chars)
-"""
-# create a mapping from characters to integers
-stoi = { ch:i for i,ch in enumerate(chars) }
-itos = { i:ch for i,ch in enumerate(chars) }
-encode = lambda s: [stoi[c] for c in s] # encoder: take a string, output a list of integers
-decode = lambda l: ''.join([itos[i] for i in l]) # decoder: take a list of integers, output a string
-"""
+
+# Split the string into words
 words = sorted_set_words_and_symbols
 
 # Create a mapping from words to integers
@@ -45,10 +58,10 @@ stoi = { word:i for i,word in enumerate(words) }
 itos = { i:word for i,word in enumerate(words) }
 
 # Encoder: take a string, output a list of integers
-encode = lambda s: [stoi[word] for word in s.split()]
+encode = lambda s: [stoi[word] for word in word_tokenize(s) if word in stoi]
 
 # Decoder: take a list of integers, output a string
-decode = lambda l: ' '.join([itos[i] for i in l])
+decode = lambda l: ' '.join([itos[i] for i in l if i in itos])
 
 # Train and test splits
 data = torch.tensor(encode(text), dtype=torch.long)
