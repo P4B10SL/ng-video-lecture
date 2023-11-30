@@ -6,7 +6,7 @@ from nltk.tokenize import word_tokenize
 import re
 
 #* Default Values
-"""
+""" 
 # hyperparameters
 batch_size = 64 # how many independent sequences will we process in parallel?
 block_size = 256 # what is the maximum context length for predictions?
@@ -21,10 +21,10 @@ n_layer = 6
 dropout = 0.2
 # ------------
 """ 
-#* Values for Laptop i3-4030u 12Gb RAM, no GPU
+#* Valores modificados
 # hyperparameters
-batch_size = 4 # how many independent sequences will we process in parallel?
-block_size = 8 # what is the maximum context length for predictions?
+batch_size = 64  # modificar
+block_size = 256 # modificar
 max_iters = 5000
 eval_interval = 100
 learning_rate = 1e-3
@@ -33,10 +33,8 @@ eval_iters = 200
 n_embd = 64
 n_head = 4
 n_layer = 4
-dropout = 0.2
+dropout = 0.5 #
 # ------------
-
-
 
 torch.manual_seed(1337)
 
@@ -86,6 +84,7 @@ def estimate_loss():
     for split in ['train', 'val']:
         losses = torch.zeros(eval_iters)
         for k in range(eval_iters):
+            print("Iteracion: ",k ,"/", eval_iters)
             X, Y = get_batch(split)
             logits, loss = model(X, Y)
             losses[k] = loss.item()
@@ -233,6 +232,7 @@ class GPTLanguageModel(nn.Module):
             idx = torch.cat((idx, idx_next), dim=1) # (B, T+1)
         return idx
 
+
 model = GPTLanguageModel()
 m = model.to(device)
 # print the number of parameters in the model
@@ -242,18 +242,19 @@ print(sum(p.numel() for p in m.parameters())/1e6, 'M parameters')
 optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate)
 
 for iter in range(max_iters):
-
     # every once in a while evaluate the loss on train and val sets
     if iter % eval_interval == 0 or iter == max_iters - 1:
+        print("Ingresó al if")
         losses = estimate_loss()
         print(f"step {iter}: train loss {losses['train']:.4f}, val loss {losses['val']:.4f}")
-
+    print("Antes de getbatch")
     # sample a batch of data
     xb, yb = get_batch('train')
-
+    print("Antes de model(xb,yb)")
     # evaluate the loss
     logits, loss = model(xb, yb)
     optimizer.zero_grad(set_to_none=True)
+    print("Antes de loss.backward()")
     loss.backward()
     optimizer.step()
 
