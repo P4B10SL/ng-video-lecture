@@ -23,8 +23,8 @@ dropout = 0.2
 """ 
 #* Valores modificados
 # hyperparameters
-batch_size = 12  # modificado
-block_size = 256 # sin modificar
+batch_size = 64  # sin modificar
+block_size = 128 # modificado
 max_iters = 5000
 eval_interval = 100
 learning_rate = 1e-3
