@@ -1,0 +1,95 @@
+#Hardware Testeado:
+CPU
+
+	AMD Ryzen 5 4600G with Radeon Graphics
+
+	Base speed:	3.70 GHz
+	Sockets:	1
+	Cores:	6
+	Logical processors:	12
+	Virtualization:	Enabled
+	L1 cache:	384 KB
+	L2 cache:	3.0 MB
+	L3 cache:	8.0 MB
+
+	Utilization	9%
+	Speed	4.09 GHz
+	Up time	0:04:35:40
+	Processes	257
+	Threads	6225
+	Handles	134626
+
+Memory
+
+	16.0 GB
+
+	Speed:	2400 MHz
+	Slots used:	2 of 2
+	Form factor:	DIMM
+	Hardware reserved:	2.1 GB
+
+	Available	5.0 GB
+	Cached	4.6 GB
+	Committed	13.3/20.4 GB
+	Paged pool	888 MB
+	Non-paged pool	613 MB
+	In use (Compressed)	8.8 GB (520 MB)
+
+#
+
+PRUEBA 5
+# hyperparameters
+batch_size = 32  #?Modificado
+block_size = 128 #?Modificado
+max_iters = 5000 # Valor Original
+eval_interval = 500 # Valor Original
+learning_rate = 1e-3 #?Modificado
+eval_iters = 200 #Valor Original
+n_embd = 64 #?Modificado
+n_head = 4   #?Modificado
+n_layer = 4	 #?Modificado
+dropout = 0.5 #?Modificado
+device = 'cuda' if torch.cuda.is_available() else 'cpu'
+# ------------
+
+
+Duracion de la ejecuccion 2178.3474111557007 segundos = 36min
+
+Resultado
+
+1.079657 M parameters
+Iteracion:  0 / 10
+step 0: train loss 8.8152, val loss 8.8185
+Iteration 0 took 56.29889512062073 seconds
+Iteracion:  1 / 10
+step 500: train loss 2.9327, val loss 5.4894
+Iteration 500 took 45.297845125198364 seconds
+Iteracion:  2 / 10
+step 1000: train loss 1.5758, val loss 6.5471
+Iteration 1000 took 46.72824263572693 seconds
+Iteracion:  3 / 10
+step 1500: train loss 0.8909, val loss 7.7039
+Iteration 1500 took 45.007596254348755 seconds
+Iteracion:  4 / 10
+step 2000: train loss 0.5953, val loss 8.7627
+Iteration 2000 took 45.08358120918274 seconds
+Iteracion:  5 / 10
+step 2500: train loss 0.4474, val loss 9.4261
+Iteration 2500 took 44.91786599159241 seconds
+Iteracion:  6 / 10
+step 3000: train loss 0.3670, val loss 10.1600
+Iteration 3000 took 45.063812017440796 seconds
+Iteracion:  7 / 10
+step 3500: train loss 0.3209, val loss 10.6605
+Iteration 3500 took 45.53605318069458 seconds
+Iteracion:  8 / 10
+step 4000: train loss 0.2890, val loss 11.0877
+Iteration 4000 took 45.05532932281494 seconds
+Iteracion:  9 / 10
+step 4500: train loss 0.2648, val loss 11.5211
+Iteration 4500 took 44.865163803100586 seconds
+Iteracion:  9 / 10
+step 4999: train loss 0.2455, val loss 11.8512
+Iteration 4999 took 45.20825123786926 seconds
+Duracion de la ejecuccion 2178.3474111557007 segundos
+Documento : 15 Articulo : 484 Capitulo : TITULO VII : Determinese que alude el articulo 10 ) dias habiles a partir de la aprobacion del Consejo Directivo . En caso de reunion posterior al cierre de la Junta Electoral que habiendose expedido por sorteo y sobre la misma , se considere necesarios para su aprobacion y Administrativos Para ser firmada por no justificado de lo dispuesto por debera ser electos de lo dispuesto por simple mayoria y Titular y un suplente se podra dar cuenta de cada Facultad y un suplente ante quien tendra una misma sujeta a su aprobacion y , conforme a este Reglamento . El Consejo Directivo para el presente reglamentacion y la aprobacion escrita al Vicedecano ejercera sus funciones y hasta que el Consejo Directivo . Documento : 15 Articulo : 507 Capitulo : TITULO X : DISPOSICIONES TRANSITORIAS Estos reconocimientos que se mencionan en los Decanos y donaciones que se preve la presente Reglamento Superior con los Decanos o de la presente Reglamento de Concurso en los del Jurado , se hicieran valer . Documento : 8 Articulo : 23 Capitulo : IV - DESIGNACION DEL JURADO Las Unidades Academicas correspondientes a sus antecedentes o Sostenimiento y regimen economico financiero de caracter publico e ideas ; su regimen especial de un lapso de funcionamiento su regimen especial a su regimen de la constitucion de sufragios , pudiendo ser autorizada y su formacion docente , que aquel en que cumplan lo dispuesto en el Articulo 5o , 6o , 19o y 22o : DE LOS DIRECTORES DE CARRERA El 19o y 22o : a ) Formar cientificos , egresados de los alumnos que se tecnicos y pedagogicos e ) Ejercer junto con las que se caractericen por la soberania u obra de la Nacion y por la confraternidad humana y a la paz entre sus problemas asociados y sistematicas de la solidez de evaluacion de evaluacion de validez nacional , social y promoveran el desarrollo de los niveles y otras funciones de los servicios que garanticen el sistema educativo , con organizaciones y la dedicacion de los articulos 48 y la imputacion presupuestaria anual de lo estipulado en el plazo de la misma confeccionara el ultimo ano , y el mismo se refiere el esta Facultad esta Facultad esta categoria y/o un plazo de acuerdo al planeamiento de Catedra TESIS o equivalente , en el Profesor que debio asumir sus Docentes . No procedera esta ordenanza , elaborada por el Rector y someterla a consideracion del nivel regional . e ) Dictar si poseen ocho propuestos ; c ) Dictar su reglamento interno . d ) Nombrar los distintos sectores sociales de nuestro pueblo y de la competitividad tecnologica del estudio de la investigacion y de la cultura en los especificados en las pruebas de este Estatuto . Documento : 15 Articulo : 479 Capitulo : TITULO IV : MEDIOS DE REALIZACION . CAPITULO 1 : De la Investigacion Cientifica Para la docencia en la investigacion

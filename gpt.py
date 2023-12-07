@@ -23,17 +23,17 @@ dropout = 0.2
 # ------------
 """ 
 # hyperparameters
-batch_size = 64  # Modificado
-block_size = 256 # Modificado
-max_iters = 1000
-eval_interval = 100 #Modificado
-learning_rate = 3e-4 #Valor Original
-device = 'cuda' if torch.cuda.is_available() else 'cpu'
+batch_size = 32  #?Modificado
+block_size = 128 #?Modificado
+max_iters = 5000 # Valor Original
+eval_interval = 500 # Valor Original
+learning_rate = 1e-3 #?Modificado
 eval_iters = 200 #Valor Original
-n_embd = 64
-n_head = 6   #Valor Original
-n_layer = 6	 #Valor Original
-dropout = 0.5 #Valor Modificado
+n_embd = 64 #?Modificado
+n_head = 4   #?Modificado
+n_layer = 4	 #?Modificado
+dropout = 0.5 #?Modificado
+device = 'cuda' if torch.cuda.is_available() else 'cpu'
 # ------------
 
 
@@ -246,10 +246,14 @@ optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate)
 for iter in range(max_iters):
     # every once in a while evaluate the loss on train and val sets
     if iter % eval_interval == 0 or iter == max_iters - 1:
-        print("Ingresó al if")
-        print("Iteracion: ", iter, "/", max_iters)
+        iter_start_time = time.time() 
+        #print("Ingresó al if")
+        print("Iteracion: ", iter//eval_interval, "/", max_iters//eval_interval)
         losses = estimate_loss()
         print(f"step {iter}: train loss {losses['train']:.4f}, val loss {losses['val']:.4f}")
+        iter_end_time = time.time() 
+        iter_time = iter_end_time - iter_start_time  # Time taken for the iteration
+        print(f"Iteration {iter} took {iter_time} seconds")
     #print("Antes de getbatch")
     # sample a batch of data
     xb, yb = get_batch('train')
@@ -260,6 +264,7 @@ for iter in range(max_iters):
     #print("Antes de loss.backward()")
     loss.backward()
     optimizer.step()
+
 
 end_time = time.time()
 execution_time = end_time - start_time
