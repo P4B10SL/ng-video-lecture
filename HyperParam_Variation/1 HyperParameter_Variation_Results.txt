@@ -1,0 +1,57 @@
+#Hardware Testeado:
+ Sin GPU
+
+ CPU Intel(R) Core(TM) i3-4030U CPU @ 1.90GHz
+
+	Velocidad de base:	1.90 GHz
+	Sockets:	1
+	Núcleos:	2
+	Procesadores lógicos:	4
+	Virtualización:	Habilitado
+	Caché L1:	128 kB
+	Caché L2:	512 kB
+	Caché L3:	3.0 MB
+
+	Uso	100%
+	Velocidad	1.89 GHz
+	Tiempo activo	0:07:32:17
+	Procesos	260
+	Subprocesos	3128
+	Identificadores	107633
+	
+	
+	Memoria
+
+	12.0 GB DDR3
+
+	Velocidad:	1600 MHz
+	Ranuras usadas:	2 de 4
+	Factor de forma:	SODIMM
+	Reservada para hardware:	83.6 MB
+
+	Disponible	2.9 GB
+	En caché	2.8 GB
+	Confirmada	13.3/15.5 GB
+	Bloque paginado	599 MB
+	Bloque no paginado	491 MB
+	En uso (comprimido)	9.0 GB (1.4 GB)
+#
+
+
+PRUEBA 1 
+# hyperparameters
+batch_size = 12  # modificado
+block_size = 256 # sin modificar
+max_iters = 5000
+eval_interval = 100
+learning_rate = 1e-3
+device = 'cuda' if torch.cuda.is_available() else 'cpu'
+eval_iters = 200
+n_embd = 64
+n_head = 4
+n_layer = 4
+dropout = 0.5 #
+# ------------
+
+Cantidad de Iteraciones Realizadas:  2/5000
+Tiempo total:  21min 25s

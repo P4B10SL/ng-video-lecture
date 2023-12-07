@@ -1,0 +1,61 @@
+#Hardware Testeado:
+CPU
+
+	AMD Ryzen 5 4600G with Radeon Graphics
+
+	Base speed:	3.70 GHz
+	Sockets:	1
+	Cores:	6
+	Logical processors:	12
+	Virtualization:	Enabled
+	L1 cache:	384 KB
+	L2 cache:	3.0 MB
+	L3 cache:	8.0 MB
+
+	Utilization	9%
+	Speed	4.09 GHz
+	Up time	0:04:35:40
+	Processes	257
+	Threads	6225
+	Handles	134626
+
+Memory
+
+	16.0 GB
+
+	Speed:	2400 MHz
+	Slots used:	2 of 2
+	Form factor:	DIMM
+	Hardware reserved:	2.1 GB
+
+	Available	5.0 GB
+	Cached	4.6 GB
+	Committed	13.3/20.4 GB
+	Paged pool	888 MB
+	Non-paged pool	613 MB
+	In use (Compressed)	8.8 GB (520 MB)
+
+#
+
+PRUEBA 4
+# hyperparameters
+batch_size = 64  # modificado
+block_size = 64 # modificado
+max_iters = 1000
+eval_interval = 100 #modificado
+learning_rate = 1e-3
+device = 'cuda' if torch.cuda.is_available() else 'cpu'
+eval_iters = 200
+n_embd = 64
+n_head = 4
+n_layer = 4
+dropout = 0.5 #
+# ------------
+
+step 999: train loss 1.4779, val loss 6.6906
+
+Duracion de la ejecuccion 1076.4348123073578 segundos = 17 minutos y 56 segundos.
+
+Resultado
+
+Documento : 5 Articulo : 10056 Capitulo : VIII . DE LOS DOCENTES . MESAS ESPECIALES . MESAS EPECIALES Queda CATEGORIAS ADSCRIPCION El Director de Antecedentes Las actuaciones del Caratula , titular de Laboratorio o de miembro del nacimiento , titulacion de los representantes del Consejo de fortalecimiento de la Practica Docente , excepcion de los apartados 1 y II y un Consejo Directivo . En caso de disconformidad con el metodo seleccionado . Documento : 11 Articulo : 10087 Capitulo : DE LOS DIRECTORES DE CARRERA El Director de tesis para aprobar las siguientes atribuciones : a ) Preservar : a ) Si ningun honorario . Documento : 12 Articulo : 26 Capitulo : 5 Articulo : 153 Capitulo : VIII - INSTITUCIONES EDUCATIVAS DONDE SE LLEVARAN A CABO LAS INSTITUCIONES EDUCATIVAS DONDE PROFESIONAL EN LAS PRACTICAS MIEMBROS DEL JURADO Excusacion del Presidente de suspension del Poder Ejecutivo Nacional de a Rectorado y controlar el cumplimiento de la presente normatividad respectiva planificacion sintetizada de sus respectivos candidatos a sus miembros ( 45 ) anos de sus Derechos , obligaciones Por unica fuera de los votos de CARRERA La valorizacion del voto sera establecido en la primera votacion se requiere el trabajo y se detallan en su significacion en la fundamentacion comunicacion de garantizar la cultura del Jurado y becas del sistema educativo ; c ) Expedirse sobre la convocatoria se periodica o no , ingresen a lo tienen por concurso Las citas bibliograficas deberan tener un Proyecto en la comun siempre cuente con un seguimiento de la participacion de la seleccion del reclamo . Documento : 76 Capitulo : V. DE LOS DIRECTORES DE CARRERA Seran causales de que se efectuaran mediante resolucion un jurado de Practica Docente . Documento : 10002 Articulo : SISTEMA DE ADSCRIPCIONES A CATEDRAS , critica que implica propuestas inherentes al regimen de la existencia de ofertas especificas Asistencialidad . Educacion General de Educacion Rural y de Educacion Federal de Educacion corridos solo por escrito llamado a los elementos de material propuestos , indicando ademas , indicando personales del examen final con el titulo Del Director sobre la jurisdiccion del Plan de Trabajo Final . Documento : 10 Articulo : 127 Capitulo : VI - territorio nacional ( TURNOS DE EXAMENES Y 3.2.2 Haber aprobado las OBJETIVOS 1.1 tecnico-profesionales tendra a partir del cierre del mismo . II . Documento : 10006 Articulo : 10051 Capitulo : De la Tesis . Capitulo IV . VIII . PROMOCION DE LOS DOCENTES . De la caducidad de la actividad elevara la inscripcion y poseer una colaboracion entre los alumnos deberan pertenecer a licencia acordada por razones de cada caso la determinacion de profundizar los derechos reconocidos por dicho ano se mencionan en el articulo anterior , en el articulo 8 Articulo : 10 Articulo : 34 Capitulo : VI - Registrese , comuniquese a quienes corresponda , comuniquese a quienes corresponda , notifiquese a la parte : 10006 Articulo : 10073 Capitulo : De la Secretaria Academica

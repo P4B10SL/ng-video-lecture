@@ -4,6 +4,7 @@ from torch.nn import functional as F
 import nltk
 from nltk.tokenize import word_tokenize
 import re
+import time
 
 #* Default Values
 """ 
@@ -21,20 +22,20 @@ n_layer = 6
 dropout = 0.2
 # ------------
 """ 
-#* Valores modificados
 # hyperparameters
-batch_size = 64  # sin modificar
-block_size = 128 # modificado
-max_iters = 5000
-eval_interval = 100
-learning_rate = 1e-3
+batch_size = 64  # Modificado
+block_size = 256 # Modificado
+max_iters = 1000
+eval_interval = 100 #Modificado
+learning_rate = 3e-4 #Valor Original
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
-eval_iters = 200
+eval_iters = 200 #Valor Original
 n_embd = 64
-n_head = 4
-n_layer = 4
-dropout = 0.5 #
+n_head = 6   #Valor Original
+n_layer = 6	 #Valor Original
+dropout = 0.5 #Valor Modificado
 # ------------
+
 
 torch.manual_seed(1337)
 
@@ -84,7 +85,7 @@ def estimate_loss():
     for split in ['train', 'val']:
         losses = torch.zeros(eval_iters)
         for k in range(eval_iters):
-            print("Iteracion: ",k ,"/", eval_iters)
+            #print("Iteracion: ",k ,"/", eval_iters)
             X, Y = get_batch(split)
             logits, loss = model(X, Y)
             losses[k] = loss.item()
@@ -233,6 +234,7 @@ class GPTLanguageModel(nn.Module):
         return idx
 
 
+start_time = time.time()
 model = GPTLanguageModel()
 m = model.to(device)
 # print the number of parameters in the model
@@ -245,19 +247,23 @@ for iter in range(max_iters):
     # every once in a while evaluate the loss on train and val sets
     if iter % eval_interval == 0 or iter == max_iters - 1:
         print("Ingresó al if")
+        print("Iteracion: ", iter, "/", max_iters)
         losses = estimate_loss()
         print(f"step {iter}: train loss {losses['train']:.4f}, val loss {losses['val']:.4f}")
-    print("Antes de getbatch")
+    #print("Antes de getbatch")
     # sample a batch of data
     xb, yb = get_batch('train')
-    print("Antes de model(xb,yb)")
+    #print("Antes de model(xb,yb)")
     # evaluate the loss
     logits, loss = model(xb, yb)
     optimizer.zero_grad(set_to_none=True)
-    print("Antes de loss.backward()")
+    #print("Antes de loss.backward()")
     loss.backward()
     optimizer.step()
 
+end_time = time.time()
+execution_time = end_time - start_time
+print(f"Duracion de la ejecuccion {execution_time} segundos")
 # generate from the model
 context = torch.zeros((1, 1), dtype=torch.long, device=device)
 print(decode(m.generate(context, max_new_tokens=500)[0].tolist()))

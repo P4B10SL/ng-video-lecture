@@ -1,0 +1,63 @@
+#Hardware Testeado:
+CPU
+
+	AMD Ryzen 5 4600G with Radeon Graphics
+
+	Base speed:	3.70 GHz
+	Sockets:	1
+	Cores:	6
+	Logical processors:	12
+	Virtualization:	Enabled
+	L1 cache:	384 KB
+	L2 cache:	3.0 MB
+	L3 cache:	8.0 MB
+
+	Utilization	9%
+	Speed	4.09 GHz
+	Up time	0:04:35:40
+	Processes	257
+	Threads	6225
+	Handles	134626
+
+Memory
+
+	16.0 GB
+
+	Speed:	2400 MHz
+	Slots used:	2 of 2
+	Form factor:	DIMM
+	Hardware reserved:	2.1 GB
+
+	Available	5.0 GB
+	Cached	4.6 GB
+	Committed	13.3/20.4 GB
+	Paged pool	888 MB
+	Non-paged pool	613 MB
+	In use (Compressed)	8.8 GB (520 MB)
+
+#
+
+PRUEBA 3
+# hyperparameters
+batch_size = 12  # modificado
+block_size = 128 # modificado
+max_iters = 5000
+eval_interval = 100
+learning_rate = 1e-3
+device = 'cuda' if torch.cuda.is_available() else 'cpu'
+eval_iters = 200
+n_embd = 64
+n_head = 4
+n_layer = 4
+dropout = 0.5 #
+# ------------
+
+Tiempo total: 1998.9188816547394 segundos  //  33 minutos y 18 segundos.
+
+A menor batch_size el overfitting es muy grande, mejor tener un batch size grande, y un block size moderado
+
+step 4999: train loss 0.4624, val loss 10.0415
+
+Resultado
+
+Documento : 10002 Capitulo : SISTEMA DE ADSCRIPCIONES A CATEDRAS , PROYECTOS DE EXTENSION Y PROYECTOS DE INVESTIGACION PARA ALUMNOS , EGRESADOS Y DOCENTES . IX - NORMAS GENERALES Lo dispuesto por doce ( 12 ) dias contados a propuesta articulos 48 dicho pluralismo dentro y artisticas , promover la Nacion y cultural o en ellas , familiar , laboral y laboral , laboral , laboral y laboral y basicas en agente u originales diversificado desde el seno del Consejo Federal de las jurisdicciones nacional o por su lugar a proponer , laboral acorde con los estudios , pares de posgrado , por separado de vencimiento de sanciones conforme lo cual debera fijar los estandares minimos previamente previstos en el regimen comun de trabajo y logros de los aprendizajes , que regira para cursar una o investigaciones educativas vocacionales de los miembros del Consejo Superior es la Facultad . El Director de la realizacion de la participacion democratica de los distintos niveles y modalidades del sistema de estudiantes , segun alumnos y regimenes alternativos de la educacion secundaria pueden contribuir a propuesta de educacion superior no universitaria . Documento : 10008 Articulo : 10161 Capitulo : TITULO III : ESTRUCTURA DEL SISTEMA EDUCATIVO NACIONAL . CAPITULO VI : EDUCACION CUATERNARIA La calificacion laboral de posgrado , en forma parte en el Consejo General de Educacion en la Educacion en el capitulado , el adecuado para la notificacion desarrollado en sus observaciones que hacen al votante de todo el mismo se formara con conformidad con ambos casos haya aprobado la mitad mas con los puntos los turnos de examenes . Documento : 114 Capitulo : III . DE LOS ALUMNOS Y REGULARIDAD Aquel alumno que supondran la condicion de libre sometidos a la aprobacion del Titulo IV . DE LOS ALUMNOS . CONDICION DE LAS EQUIVALENCIAS La Secretaria Academica propondra al padron unico pasa a la resolucion expresa profesional minimo VI . Documento : 10006 Articulo : REGIMEN FINANCIERO Y ADMINISTRATIVO . Al finalizar el intercambio sobre la Universidad carrera sera propuesto sea alumnos con Graduado , Jefes de Trabajos Practicos y presentacion del reporte final de los postulantes que se podran considerar a toda vez y normas correspondientes . d ) Estudiante . Documento : 15 Articulo : 15 Articulo : 426 Capitulo : TITULO VII : INCOMPATIBILIDADES Los integrantes del padron unico de toda Resolucion . Documento : INCOMPATIBILIDADES Queda autorizada y servicio de investigacion y desarrollo de las necesidades del propio proyecto y a la supervision del proyecto . Documento : 10006 Articulo : 426 Capitulo : De la Tesis . II . DEL SISTEMA DE ADSCRIPCIONES A CATEDRAS , inciso II . Documento : DEL SISTEMA DE ADSCRIPCIONES A CATEDRAS , PROYECTOS DE EXTENSION Y PROYECTOS DE INVESTIGACION PARA ALUMNOS , EGRESADOS Y DOCENTES . III : DE LAS CATEGORIAS Se ajusten a inscripcion en un alumno libre y debera acreditar tal peticion de cuando se detalla en su inscripcion y debera presentar su cursado de grado o
