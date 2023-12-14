@@ -1,0 +1,94 @@
+#Hardware Testeado:
+CPU
+
+	AMD Ryzen 5 4600G with Radeon Graphics
+
+	Base speed:	3.70 GHz
+	Sockets:	1
+	Cores:	6
+	Logical processors:	12
+	Virtualization:	Enabled
+	L1 cache:	384 KB
+	L2 cache:	3.0 MB
+	L3 cache:	8.0 MB
+
+	Utilization	9%
+	Speed	4.09 GHz
+	Up time	0:04:35:40
+	Processes	257
+	Threads	6225
+	Handles	134626
+
+Memory
+
+	16.0 GB
+
+	Speed:	2400 MHz
+	Slots used:	2 of 2
+	Form factor:	DIMM
+	Hardware reserved:	2.1 GB
+
+	Available	5.0 GB
+	Cached	4.6 GB
+	Committed	13.3/20.4 GB
+	Paged pool	888 MB
+	Non-paged pool	613 MB
+	In use (Compressed)	8.8 GB (520 MB)
+
+#
+
+PRUEBA 7
+# hyperparameters
+batch_size = 12  #Valor Original
+block_size = 32 #Valor Original
+max_iters = 5000 # Valor Original
+eval_interval = 500 # Valor Original
+learning_rate = 1e-3 #?Modificado
+eval_iters = 200 #Valor Original
+n_embd = 64 #?Modificado
+n_head = 4   #?Modificado
+n_layer = 4	 #?Modificado
+dropout = 0.5 #?Modificado
+device = 'cuda' if torch.cuda.is_available() else 'cpu'
+# ------------
+weight_decay=1e-5 #?Modificado
+optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate, weight_decay=1e-3)
+# ------------
+
+Resultados 
+1.073513 M parameters
+Iteracion:  0 / 10
+step 0: train loss 8.8345, val loss 8.8317
+Iteration 0 took 7.119836807250977 seconds
+Iteracion:  1 / 10
+step 500: train loss 4.4172, val loss 5.7273
+Iteration 500 took 7.03482723236084 seconds
+Iteracion:  2 / 10
+step 1000: train loss 3.7475, val loss 5.7684
+Iteration 1000 took 6.910207986831665 seconds
+Iteracion:  3 / 10
+step 1500: train loss 3.4308, val loss 5.8771
+Iteration 1500 took 7.236989498138428 seconds
+Iteracion:  4 / 10
+step 2000: train loss 3.0978, val loss 5.9756
+Iteration 2000 took 6.9299211502075195 seconds
+Iteracion:  5 / 10
+step 2500: train loss 2.7751, val loss 6.1518
+Iteration 2500 took 7.467968940734863 seconds
+Iteracion:  6 / 10
+step 3000: train loss 2.4475, val loss 6.2480
+Iteration 3000 took 7.429725646972656 seconds
+Iteracion:  7 / 10
+step 3500: train loss 2.1736, val loss 6.3580
+Iteration 3500 took 7.579043388366699 seconds
+Iteracion:  8 / 10
+step 4000: train loss 1.9344, val loss 6.7539
+Iteration 4000 took 7.9163055419921875 seconds
+Iteracion:  9 / 10
+step 4500: train loss 1.7496, val loss 7.0612
+Iteration 4500 took 7.230884552001953 seconds
+Iteracion:  9 / 10
+step 4999: train loss 1.5743, val loss 7.2273
+Iteration 4999 took 7.227642059326172 seconds
+Duracion de la ejecuccion 422.3197383880615 segundos
+Documento : 8 Articulo : 17 Capitulo : Reglamento General Concurso Docentes la Facultad de Antecedentes El Director de Carrera podra ser electo como aspirante a examen final de la asignatura a cargo de la adscripcion , el caso de incumplimiento del jurado que estuviere involucrado personal ; d ) docentes en Estudiantes electos anteriores ajena , sin causa justificada a ) Si se trata de correspondiente al Decanato tienen por la Universidad : Una vez aprobado por escrito cuyo caso DEL revista de proyectos de investigacion cientifica o profesional , profesional para la cual pertenece a que la catedra y desarrollo de grado o alternativas , metodologia docente responsable de jurisdiccion . cuenta para el inconveniente para lo Punto VIII . En caso de Extension o calendario academico equivalente , VI , obligatoria , de investigacion , de los lineamientos de la nueva institucion prevista en el inciso e posible a su desempeno evidencie deficiencias inherentes a distancia . g ) horas cumplimiento de los distintos niveles preuniversitarios , en sus objetivos fundamentales : creacion sexualidad por conocimiento propuestas educativas los servicios que puede ensenar y aprender . f ) Educacion Fisica , permanencia en la practica de sus formas de volcar los alumnos ) Promover una adecuada formacion docente que se establece la presente en la integracion entre otras dirigidas a ninos/as profesional y desarrollo academico : 60 ) Las jurisdicciones prevista en el inciso anterior y la que enuncia el Regimen de UN EXAMEN FINAL El escrutinio a simple mayoria , se realizara con los doce ( Capitulo : Deroguese toda vez que corresponda , designados permanezcan en sus funciones un representante de Cultura y Educacion , cuatro ( seis ( 6 ) ( dos ) anos de edad , B.O . 28/12/2006 ) Profundizar las fechas de avance , documental presentada y ordenar , su dependencia practico de las distintas instituciones que se dicten simultaneamente en Congreso Nacional , proporcionar Ley N 27.204 B.O . 11/11/2015 ) Documento : 14 Articulo 13 Articulo : 328 Capitulo : TITULO II : Educacion , Conceptos y Objetivos lograr quorum en el programa vigente , sera el adecuado uso de su desarrollo y de la presente regimen de efectos academico-administrativos , Cuerpo el Consejo Directivo , quien corresponda . Documento : 15 Articulo : 466 Capitulo : TITULO IV : DE LOS CUERPOS UNIVERSITARIOS . SECCION B : De los Docentes Universitarios Todos los Docentes Interinos de que satisface los representantes docentes en el alumno regular docente de la Facultad de la Facultad , se elegira un solo comicio , solo por perdida , la paz del juicio de Jovenes y Adultos ; cada seis meses- y h ) El docente tenga proceso de manera sobres cerrados . El establecimiento podra aprobar la documentacion presentada al Consejo Superior , el Comite Ejecutivo del tribunal que debera excusarse . Documento : 11 Articulo : 190 Capitulo : DE LOS CONSEJOS DE CARRERA La intervencion nunca podra integrar el Jurado en dos

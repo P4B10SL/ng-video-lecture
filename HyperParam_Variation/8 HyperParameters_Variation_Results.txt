@@ -1,0 +1,99 @@
+#Hardware Testeado:
+CPU
+
+	AMD Ryzen 5 4600G with Radeon Graphics
+
+	Base speed:	3.70 GHz
+	Sockets:	1
+	Cores:	6
+	Logical processors:	12
+	Virtualization:	Enabled
+	L1 cache:	384 KB
+	L2 cache:	3.0 MB
+	L3 cache:	8.0 MB
+
+	Utilization	9%
+	Speed	4.09 GHz
+	Up time	0:04:35:40
+	Processes	257
+	Threads	6225
+	Handles	134626
+
+Memory
+
+	16.0 GB
+
+	Speed:	2400 MHz
+	Slots used:	2 of 2
+	Form factor:	DIMM
+	Hardware reserved:	2.1 GB
+
+	Available	5.0 GB
+	Cached	4.6 GB
+	Committed	13.3/20.4 GB
+	Paged pool	888 MB
+	Non-paged pool	613 MB
+	In use (Compressed)	8.8 GB (520 MB)
+
+#
+
+PRUEBA 7
+# hyperparameters
+batch_size = 64  #Valor Original
+block_size = 64 #Valor Original
+max_iters = 5000 # Valor Original
+eval_interval = 500 # Valor Original
+learning_rate = 1e-3 #?Modificado
+eval_iters = 200 #Valor Original
+n_embd = 64 #?Modificado
+n_head = 4   #?Modificado
+n_layer = 4	 #?Modificado
+dropout = 0.5 #?Modificado
+device = 'cuda' if torch.cuda.is_available() else 'cpu'
+# ------------
+weight_decay=1e-5 #?Modificado
+optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate, weight_decay=1e-5)
+# ------------
+
+Resultados 
+
+1.075561 M parameters
+Iteracion:  0 / 10
+step 0: train loss 8.8358, val loss 8.8342
+Iteration 0 took 60.827324867248535 seconds
+Iteracion:  1 / 10
+step 500: train loss 2.7066, val loss 5.5751
+Iteration 500 took 57.452666997909546 seconds
+Iteracion:  2 / 10
+step 1000: train loss 1.4421, val loss 6.7165
+Iteration 1000 took 57.24425268173218 seconds
+Iteracion:  3 / 10
+step 1500: train loss 0.8923, val loss 7.8838
+Iteration 1500 took 56.07824182510376 seconds
+Iteracion:  4 / 10
+step 2000: train loss 0.6559, val loss 8.7129
+Iteration 2000 took 55.5079460144043 seconds
+Iteracion:  5 / 10
+step 2500: train loss 0.5389, val loss 9.4107
+Iteration 2500 took 54.97571587562561 seconds
+Iteracion:  6 / 10
+step 3000: train loss 0.4528, val loss 10.0058
+Iteration 3000 took 53.17079496383667 seconds
+Iteracion:  7 / 10
+step 3500: train loss 0.4082, val loss 10.4896
+Iteration 3500 took 59.22624087333679 seconds
+Iteracion:  8 / 10
+step 4000: train loss 0.3722, val loss 10.9638
+Iteration 4000 took 58.032049894332886 seconds
+Iteracion:  9 / 10
+step 4500: train loss 0.3495, val loss 11.2626
+Iteration 4500 took 54.47295093536377 seconds
+Iteracion:  9 / 10
+step 4999: train loss 0.3312, val loss 11.6340
+Iteration 4999 took 69.48830962181091 seconds
+
+
+Duracion de la ejecuccion 2704.5032498836517 segundos
+
+
+Documento : 10007 Articulo : 10091 Capitulo : DE LOS RESPONSABLES DE LOS RESPONSABLES DE CARRERA En caso de empate se realizara una nueva eleccion entre los representantes de los Profesores titulares , Asociados ; tres Consejeros Profesores Adjuntos , tres Consejeros Profesores Jefe de Departamento y este Titulo , coordinador de catedra , elegidos y Acreditacion Universitaria o ante quienes ante quienes esta y/o Secretaria delegue esta funcion de las horas de pares de no Planeamiento de Catedra ; previa consulta del proyecto y la explicitacion exhautiva del mismo , de modo tal que permita al Comite podra demandar mayor de Admision colegir su admisibilidad . Eventualmente , podra incluir en la docencia , podra incluir en la carrera , podra incluir en ambos padres , la confeccion y de entrega y firma del impedimento del tesista . b ) la nomina de aspirantes . c ) al momento de la propuesta , la tesis , la convocatoria del cierre de la inscripcion , con el Decano y en caso de disconformidad con el decisorio del Comite -que debera ser publicado durante tres dias habiles- el medio podra interponer , dentro de la Unidad Academica en los voto se realizara con toda la integran los grados de los nucleos , laboratorio y asesores de hacer efectiva justificacion de la planificaciones de acuerdo a las reglamentaciones que permita al mundo del sistema productivo . Documento : 10006 Articulo : 10006 Articulo : 10051 Capitulo : De la Tesis . Capitulo III . De la Propuesta , principios y todo lo establece la responsabilidad de la que tienen como representante de cada institucion . Los casos que establezca la poblacion , mediante la siguiente perjuicio de otras que expidan sobre la creacion sera ello sera reemplazado por una antiguedad en la docencia en la investigacion y en la misma en lo menos dos ( 2 ) Instituciones Universitarias Nacionales seran responsables de las mismas seran informadas al trabajo para conformar una vez finalizado el area de la notificacion de acuerdo a lo sera competencia , las mismas se llevara la firma de la firma de asociaciones o podra extenderse autenticada de las Facultades y a partir del cargo de personal docente titulado conforme se establece la normativa vigente y se expediran titulos y certificados de Educacion Nacional y capacitar cientificos , profesionales , Tecnicos . b ) Los establecimientos carcelarios , organizaciones de gestion estatal y otras disposiciones del proceso cientifica y servicios en contextos de privacion de libertad , conforme al Articulo 9 inciso c ) y funcionamiento . Documento : 50 . Documento : 5 Articulo : 473 Capitulo : TITULO VI : DE LAS EQUIVALENCIAS Los Consejeros Profesores Seran funciones : a ) No 26.206 de titulo Regular . Documento : 15 Articulo : ORGANOS Y FUNCIONES . CAPITULO 1 : De las Facultades . SECCION A : De los Consejos Directivos El Consejo Directivo tiene la finalidad proporcionar situaciones no contemplados en la presente para poder : * 

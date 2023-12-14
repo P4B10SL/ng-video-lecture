@@ -23,8 +23,8 @@ dropout = 0.2
 # ------------
 """ 
 # hyperparameters
-batch_size = 32  #?Modificado
-block_size = 128 #?Modificado
+batch_size = 12  #Valor Original
+block_size = 32 #Valor Original
 max_iters = 5000 # Valor Original
 eval_interval = 500 # Valor Original
 learning_rate = 1e-3 #?Modificado
@@ -241,7 +241,7 @@ m = model.to(device)
 print(sum(p.numel() for p in m.parameters())/1e6, 'M parameters')
 
 # create a PyTorch optimizer
-optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate)
+optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate, weight_decay=1e-3)
 
 for iter in range(max_iters):
     # every once in a while evaluate the loss on train and val sets

@@ -1,0 +1,71 @@
+#Hardware Testeado:
+CPU
+
+	AMD Ryzen 5 4600G with Radeon Graphics
+
+	Base speed:	3.70 GHz
+	Sockets:	1
+	Cores:	6
+	Logical processors:	12
+	Virtualization:	Enabled
+	L1 cache:	384 KB
+	L2 cache:	3.0 MB
+	L3 cache:	8.0 MB
+
+	Utilization	9%
+	Speed	4.09 GHz
+	Up time	0:04:35:40
+	Processes	257
+	Threads	6225
+	Handles	134626
+
+Memory
+
+	16.0 GB
+
+	Speed:	2400 MHz
+	Slots used:	2 of 2
+	Form factor:	DIMM
+	Hardware reserved:	2.1 GB
+
+	Available	5.0 GB
+	Cached	4.6 GB
+	Committed	13.3/20.4 GB
+	Paged pool	888 MB
+	Non-paged pool	613 MB
+	In use (Compressed)	8.8 GB (520 MB)
+
+#
+
+PRUEBA 7
+# hyperparameters
+batch_size = 64  #?Valor Original
+block_size = 256 #?Valor Original
+max_iters = 5000 # Valor Original
+eval_interval = 500 # Valor Original
+learning_rate = 1e-3 #?Modificado
+eval_iters = 200 #Valor Original
+n_embd = 64 #?Modificado
+n_head = 4   #?Modificado
+n_layer = 4	 #?Modificado
+dropout = 0.5 #?Modificado
+device = 'cuda' if torch.cuda.is_available() else 'cpu'
+# ------------
+weight_decay=1e-5 #?Modificado
+optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate, weight_decay=1e-5)
+# ------------
+
+
+Duracion de la ejecuccion NO FINALIZADA
+
+Resultado
+
+Iteracion:  0 / 10
+step 0: train loss 8.8366, val loss 8.8282
+Iteration 0 took 309.5249197483063 seconds
+Iteracion:  1 / 10
+step 500: train loss 2.0611, val loss 5.8975       
+Iteration 500 took 317.32173800468445 seconds      
+Iteracion:  2 / 10
+step 1000: train loss 0.6854, val loss 8.0004
+
